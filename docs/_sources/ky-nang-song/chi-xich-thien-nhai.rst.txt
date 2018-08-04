@@ -1,0 +1,45 @@
+Chỉ Xích Thiên Nhai
+===================
+
+* Hay còn gọi là kỹ năng chế định vị phù (chế bùa), cho phép định vị tại các vị trí ở các thành chính: Đại Lý, Lạc Dương, Tô Châu, Lâu Lan để nhanh chóng di chuyển.
+
+Học Nghề
+--------
+
+* Học tại Đại Lý: NPC Trương Linh Quân (27, 240; chữ Định Vị trên bản đồ).
+
+Thăng Cấp
+---------
+
+* Cấp tối đa: 3
+
+* Chế phù bằng nguyên liệu là Hoàng Chỉ (nhặt từ quái vật ở các bản đồ luyện công) cho đủ điểm thành thạo và thăng cấp tại NPC dạy nghề, tốn tiền vàng và kinh nghiệm.
+
+  * Cấp 2: 100 vàng.
+  * Cấp 3: 500 vàng.
+
+* Số lần sử dụng của định vị phù:
+
+  * Cấp 1: 8 lần sử dụng (tiêu hao 5 Hoàng Chỉ, 8 hoạt lực/lần chế).
+
+    .. figure:: /_static/images/ky-nang-song/chi-xich-thien-nhai/dinh-vi-phu-1.png
+     :alt: Định vị phù cấp 1 dùng được 8 lần
+
+     Định vị phù cấp 1 dùng được 8 lần
+
+  * Cấp 2: 13 lần sử dụng (tiêu hao 8 Hoàng Chỉ, 9 hoạt lực/lần chế).
+
+    .. figure:: /_static/images/ky-nang-song/chi-xich-thien-nhai/dinh-vi-phu-2.png
+     :alt: Định vị phù cấp 2 dùng được 13 lần
+
+     Định vị phù cấp 2 dùng được 13 lần
+
+  * Cấp 3: 20 lần sử dụng (tiêu hao 10 Hoàng Chỉ, 10 hoạt lực/lần chế).
+
+    .. figure:: /_static/images/ky-nang-song/chi-xich-thien-nhai/dinh-vi-phu-3.png
+     :alt: Định vị phù cấp 3 dùng được 20 lần
+
+     Định vị phù cấp 3 dùng được 20 lần
+
+*LingYun ghi chép lúc 23:31 29/7/2018*
+

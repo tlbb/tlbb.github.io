@@ -1,0 +1,38 @@
+.. _trang-bi-trung-lau-lien:
+
+Trùng Lâu Liên
+==============
+
+* Tỉ lệ gây Thất Minh đối phương, kéo dài 7 giây (Trùng Lâu Phản)
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_phan.jpg
+     :alt: Trang bị dây chuyền (hạng liên) Ma tôn Trùng Lâu Phản, có khả năng gây thất minh mục tiêu trong 7 giây
+
+     Trang bị dây chuyền (hạng liên) Ma tôn Trùng Lâu Phản, có khả năng gây thất minh mục tiêu trong 7 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_phan.png
+     :alt: Hình ảnh buff hiệu ứng Trùng lâu Phản, xác suất gây thất minh mục tiêu trong 7 giây
+
+* Tỉ lệ gây Thất Minh đối phương, kéo dài 20 giây (Trùng Lâu Liên)
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_lien.jpg
+     :alt: Trang bị dây chuyền (hạng liên) Ma tôn Trùng Lâu Liên, có khả năng gây thất minh mục tiêu trong 20 giây
+
+     Trang bị dây chuyền (hạng liên) Ma tôn Trùng Lâu Liên, có khả năng gây thất minh mục tiêu trong 20 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_lien.png
+     :alt: Hình ảnh buff hiệu ứng Trùng lâu Liên, xác suất gây thất minh mục tiêu trong 20 giây   
+
+* Tỉ lệ gây Thất Minh đối phương, kéo dài 25 giây (Chân Trùng Lâu Liên)
+
+  Đây là hàng hiếm, chỉ có vật phẩm khóa cố định, ghi nhận xuất hiện trong sự kiện `Thiên Giáng Minh Châu <http://ttl3d.zing.vn/su-kien/tet-at-mui-2015/thien-giang-minh-chau-187.html>`_.
+
+  .. image:: /_static/images/trang-bi/trung-lau/chan_trung_lau_lien.jpg
+
+* Xếp sau Trùng Lâu Đới, Trùng Liên là vật phẩm có giá trị nhất với nhân vật dù mạnh hay yếu, với khả năng gây hiệu ứng *mù* (Thất Minh) cho đối phương tới tận 20 giây (lâu nhất trong các món Trùng Lâu), hơn nữa nó cũng là một hạng liên (dây chuyền) thông thường có thuộc tính + sinh lực tối đa rất thích hợp để phối ngọc nhằm tận dụng sức mạnh.
+
+* Giá thị trường: 10, 17, 20, 25 triệu đồng (Phản , Liên).
+
+  Trong sự kiện Thiên Giáng Minh Châu, dùng 555 Lưu Ly Minh Châu x 1000 (= 555.000 KNB) để đối Trùng Lâu Liên. 
+  
+  Và 2222 Lưu Ly Minh Châu (= 2.222.000 KNB) để đổi Chân Trùng Lâu Liên.

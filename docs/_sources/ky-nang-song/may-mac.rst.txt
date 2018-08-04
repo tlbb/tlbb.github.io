@@ -1,0 +1,72 @@
+May Mặc
+=======
+
+* Học công thức chế đồ bằng đồ tường tương ứng 1 lần.
+* Nguyên liệu may mặc: 
+  
+  * Sợi dệt (nghề trồng trọt).
+  * Bố phiến sơ cấp/trung cấp/cao cấp: dùng kỹ năng gia công nguyên liệu gia công các nguyên liệu có tên đuôi là:
+
+    * Thiên Nhãn.
+    * Hoàng Cốt.
+    * Địa Tâm.
+    * Huyền Ty.
+
+    Các nguyên liệu này nhặt được từ quái vật ở các bãi luyện công từ 1x - 10x hoặc mua trong Tiểm Điểm Tặng - Tiền Trang.
+
+  * Nhận cách cấp 1 - 10: dùng kỹ năng gia công các loại da, lông có tên đuôi:
+
+    * Cách (vd: Hậu Bì Cách).
+    * Mao (vd: Lân Bì Mao).
+
+    Các nguyên liệu này nhặt được từ quái vật ở các bãi luyện công từ 1x - 10x hoặc mua trong Tiểm Điểm Tặng - Tiền Trang.
+
+  .. figure:: /_static/images/ky-nang-song/gia-cong-nguyen-lieu/tiem-diem-tang.png
+       :alt: Có thể vào tiền trang, tiệm điểm tặng để xem hoặc mua các vật phẩm để gia công, nhớ đọc kĩ mô tả, không mua được thì đi ra map luyện công nhặt nhé!
+
+       Có thể vào tiền trang, tiệm điểm tặng để xem hoặc mua các vật phẩm để gia công, nhớ đọc kĩ mô tả, không mua được thì đi ra map luyện công nhặt nhé!  
+ 
+  * Đả tạo đồ.
+
+.. figure:: /_static/images/ky-nang-song/may-mac/ban-may-va.png
+   :alt: Phải đứng gần bàn may ở các NPC dạy May mặc thì mới tiến hành may mặc được nhé!
+
+   Phải đứng gần bàn may ở các NPC dạy May mặc thì mới tiến hành may mặc được nhé!
+
+Học Nghề
+--------
+
+* Đại Lý: NPC Hoàng Lăng Ba (244, 177).
+* Lạc Dương: NPC Phù Mẫn Chi (290, 309).
+* Tô Châu: NPC Dư Hóa Long (312, 164).
+
+Thăng Cấp
+---------
+
+* Từ 1 - 5: thăng cấp tại NPC dạy may mặc.
+* Từ 5 - 10: 
+
+  * Đại Lý: NPC Mộc Uyển Thanh (110, 131).
+  * NPC Mã Ứng Hùng (chữ Công) trong thành thị bang hội.
+
+Đả Tạo Đồ
+---------
+
+* Cấp 1 - 2: Đại Lý - NPC Hoàng Lăng Ba (244, 177).
+* Cấp 1 - 3: Lạc Dương - NPC Phù Mẫn Chi (290, 309).
+* Cấp 3 - 4: Tô Châu - NPC Dư Hóa Long (312, 164).
+* Cấp 5: Liêu Tây - NPC Lưu Quý (279, 48).
+* Cấp 6: Quỳnh Châu - NPC Võ Cát (280, 215).
+* Mua tại Tô Châu - NPC Lý Lạc Thi (290, 187) bằng điểm thiện ác.
+* Mua tại Lạc Dương - NPC Tái Lỗ Ban di chuyển từ thành Đông sang thành Tây theo chu kỳ.
+
+Đồ Tường
+--------
+
+* Trang bị cấp < 3x: tại các NPC dạy may mặc (và các khu chữ Phòng trên bản đồ).
+* Trang bị 3x: Thương Sơn - NPC Mã Đầu Lĩnh (70, 48).
+* Trang bị 4x: Yến Vương Cổ Mộ Tầng 5 - NPC Quách Để Huy (95, 24).
+* Trang bị 5x - 10x: mua tại NPC Mã Ứng Hùng (chữ Công) trong thành thị bang hội.
+* Trang bị 1x - 10x: mua tại trưởng môn phái bằng điểm cống hiến môn phái.
+  
+*LingYun ghi chép lúc 23:57 31/7/2018*

@@ -1,0 +1,16 @@
+.. _trang-bi-trung-lau-quy:
+
+Trùng Lâu Quy
+=============
+
+* Tỉ lệ gây Tê Liệt đối phương, kéo dài 7 giây
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_quy.jpg
+     :alt: Trùng Lâu Quy gây tê liệt đối phương, kéo dài 7 giây
+
+     Hình ảnh về Trùng Lâu Quy, món trùng lâu được cho là "bình dân" nhất.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_quy.png
+     :alt: Buff hiệu ứng Trùng Lâu Quy gây tê liệt đối phương, kéo dài 7 giây    
+
+     Buff hiệu ứng Trùng Lâu Quy gây tê liệt (ma tý - hình buff giống thanh kiếm màu xanh dương) đối phương, kéo dài 7 giây. Buff này giống hệt như buff của :ref:`trang-bi-trung-lau-ngoc` (vì cùng là Trùng Lâu hộ phù (ngọc bội)) nhưng thời gian ảnh hưởng lên đối phương chỉ kéo dài 7 giây. 

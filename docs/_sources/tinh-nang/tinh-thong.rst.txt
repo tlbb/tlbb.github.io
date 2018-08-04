@@ -1,0 +1,81 @@
+Tinh Thông Trang Bị
+===================
+
+* Là 3 dòng thuộc tính mở rộng được tôi luyện và thăng cấp thêm vào trang bị.
+* Yêu cầu: trang bị đồ chế cấp 80 trở lên hoặc Trùng Lâu.
+
+  .. figure:: /_static/images/chuc-nang/tinh-thong/tong-quan.png
+     :alt: Hình ảnh ví dụ về 3 dòng tinh thông trên trang bị.
+
+     Hình ảnh ví dụ về 3 dòng tinh thông trên trang bị.
+
+* Thao tác đến chức năng Tinh Thông Trang Bị tại NPC Mộ Bạch - Tô Châu (363, 243) - Khu Thiết Tượng Phố.
+
+  .. figure:: /_static/images/chuc-nang/tinh-thong/npc.png
+     :alt: NPC Mộ Bạch hỗ trợ các chức năng liên quan đến Tinh Thông Trang Bị.
+
+     NPC Mộ Bạch hỗ trợ các chức năng liên quan đến Tinh Thông Trang Bị.
+
+Tôi Luyện
+---------
+
+* Tôi luyện là tên gọi của việc tẩy (đúc) lại các dòng thuộc tính mở rộng, khó nhất là để có 2 hoặc 3 dòng trùng nhau.
+* Tiêu hao vật phẩm **Ly Hỏa** để tôi luyện dòng tinh thông.
+* Mỗi ngày có thể luyện lò ly hỏa miễn phí tại NPC Mộ Bạch.
+
+.. figure:: /_static/images/chuc-nang/tinh-thong/ly-hoa.png
+   :alt: Hình ảnh vật phẩm Ly Hỏa dùng để tôi luyện dòng tinh thông trang bị.
+
+   Hình ảnh vật phẩm Ly Hỏa dùng để tôi luyện dòng tinh thông trang bị.
+
+Cấp Tinh Thông
+--------------
+
+* Dùng vật phẩm **Kim Tinh Thạch** để tăng cấp dòng tinh thông
+
+  * Mỗi ngày có thể luyện lò ly hỏa miễn phí để nhận mảnh vỡ Kim Tinh Thạch, 2 mảnh vỡ thì đổi được 1 Kim Tinh Thạch.
+  * Tham gia tỷ võ cuối tuần trưa Chủ Nhật 14h để nhận kim tinh thạch.
+  * Vòng Quay May Mắn.
+  * Giá thị trường 6-7KNB/1.
+
+  .. figure:: /_static/images/chuc-nang/tinh-thong/manh-vo-kim-tinh-thach.png
+     :alt: Hình ảnh vật phẩm Mảnh vỡ Kim Tinh Thạch
+
+
+  .. figure:: /_static/images/chuc-nang/tinh-thong/kim-tinh-thach.png
+     :alt: Hình ảnh vật phẩm Kim Tinh Thạch   
+
+     Hình ảnh vật phẩm Kim Tinh Thạch dùng để tăng cấp dòng thuộc tính tinh thông.
+
+* Cấp tối đa: 100.
+
+===================== ========================= =============
+Khoảng cấp tinh thông Số lượng vật phẩm cần/cấp Tổng cộng
+===================== ========================= =============
+ 1 - 10                1						10 x 1 = 10
+11 - 20                6						 60
+21 - 30               12						120
+31 - 40               14						140
+41 - 50               16						160
+51 - 60               18						180
+61 - 70               20						200
+71 - 80               22						220
+81 - 90               24						240
+91 - 100              25						250
+TC:                                             1580
+===================== ========================= =============
+
+Thông tin đã được kiểm chứng từ cấp tinh thông 70 trở xuống. Sau cấp 70 xin cảm ơn thông tin của Đoàn_Ca - Diễn đàn Tân Thiên Long và về sau mình đã kiểm chứng lại là đúng số lượng
+như trên bảng.
+
+Kinh Nghiệm
+-----------
+
+* Ưu tiên tăng cấp tinh thông trên Trùng Lâu trước vì điểm cộng cấp 100 của nó cao hơn so với các trang bị khác cùng cấp 100.
+* Nên tăng cấp đều cấp 20, 30, 40, ... trên các dòng ở các trang bị thay vì dồn vào một dòng lên cấp 100.
+* Đồ có sao càng cao (8 sao) thì điểm cộng của dòng tình thông càng cao.
+* Để có thể tôi luyện ra 2 hoặc 3 dòng trùng nhau nhanh chóng thì có thể dùng vật phẩm Vô Tướng Linh Thạch (event Thiên Giáng Minh Châu).
+
+*LingYun ghi chép lại lần 2 lúc 22:44 28/7/2018*
+
+

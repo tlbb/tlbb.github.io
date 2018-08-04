@@ -1,0 +1,24 @@
+Trùng Lâu Giáp
+==============
+
+* Tăng (+) Giới hạn sinh lực 5%
+* Ra mắt TTL3D VNG vào ngày 20/01/2015 (Sự kiện Pháo Hoa Trùng Lâu)
+* Sở hữu đầu tiên: BéThảoXinh - Máy chủ Bàn Cổ (11/02/2015)
+  (với mức điểm nộ phóng tích lũy là 11245 - 300 KNB/1 điểm nộ phóng ~ Tổng chi trả khoảng 253 triệu đồng)
+* 6 tháng sau, Chân Trùng Lâu Giáp xuất hiện trong sự kiện Mừng phiên bản mới - Thiên Giáng Minh Châu (5/8/2015)
+  
+  * Bằng cách đổi 1750 Lưu Ly Trân Châu (1000 KNB/1 viên) sẽ được Chân Trùng Lâu Giap, ước tính chi trả khoảng 131 triệu đồng
+
+  * Bằng cách đổi 1000 Lưu Ly Trân Châu sẽ được Trùng Lâu Giáp, ước tính khoảng 75 triệu đồng
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_giap.jpg
+     :alt: Trùng Lâu Giáp, món trùng lâu rảnh rỗi nhất
+
+     Trùng Lâu Giáp, món Trùng Lâu mà theo ý kiến chủ quan là không có giá trị lắm so với đồng tiền bỏ ra để sở hữu, và cũng có thể vì sự kém hấp dẫn nên đa số các anh hào lừng lẫy cũng không muốn chi thêm để đoạt về. Chỉ những anh hào mới nổi, máy chủ mới thì may ra.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_giap.jpg
+     :alt: Hình ảnh trang bị Trùng Lâu thần khí Chân Trùng Lâu Giáp
+     
+     Hình ảnh trang bị Trùng Lâu thần khí Chân Trùng Lâu Giáp.
+
+*Giới hạn sinh lực phụ thuộc vào tổng điểm tiềm năng Thể lực của nhân vật*

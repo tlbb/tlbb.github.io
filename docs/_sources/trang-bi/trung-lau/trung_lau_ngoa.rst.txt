@@ -1,0 +1,41 @@
+.. _trang-bi-trung-lau-ngoa:
+
+Trùng Lâu Ngoa
+==============
+
+* 2% xác suất gây bạo kích 5% (Trùng Lâu Ngoa).
+* 3% xác suất gây bạo kích 5% (Chân Trùng Lâu Ngoa).
+* Ra mắt TTL3D vào ngày 16/09/2015 (Sự kiện Thiên Giáng Minh Châu).
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_ngoa.jpg
+     :alt: Hình ảnh Ma tôn Trùng Lâu Ngoa
+
+     Hình ảnh ma tôn Trùng Lâu Ngoa.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_ngoa.jpg
+     :alt: Hình ảnh Ma tôn Chân Trùng Lâu Ngoa
+
+     Hình ảnh Ma tôn Chân Trùng Lâu Ngoa
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_ngoa_sat_thuong_binh_thuong.jpg
+     :alt: Sát thương bình thường
+
+     Sát thương bình thường
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_ngoa_sat_thuong_bao_kich_binh_thuong.jpg
+     :alt: Bạo kích (chí mạng) bình thường trong trò chơi là x2 sát thương bình thường
+
+     Bạo kích bình thường, x2 sát thương bình thường.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_ngoa_sat_thuong_bao_kich_hieu_ung_trung_lau.jpg
+     :alt: Khi trang bị Trùng Lâu Ngoa, sát thương chí mạng giờ đây sẽ tăng lên gấp 5 lần so với bình thường.
+   
+     Bạo kích x5 sát thương bình thường, hiệu ứng từ Trùng Lâu Ngoa.
+
+* | Giá thị trường: 40 triệu, 100 triệu.
+  | 555 Lưu Ly Minh Châu đổi được Trùng Lâu Ngoa (555 * 1000 KNB = 555.000 KNB)
+  | 1350 Lưu Ly Minh Châu đổi được Chân Trùng Lâu Ngoa (1350 * 1000 KNB = 1.350.000 KNB)
+
+* | Theo nhận xét chủ quan, nếu có món Trùng Lâu nào đáng mua xếp thứ ba sau :ref:`trang-bi-trung-lau-doi`, :ref:`trang-bi-trung-lau-lien` thì sẽ là Trùng Lâu Ngoa. 
+  | Một nhân vật tương đối mạnh, với chỉ số hội công (chí mạng) cao, khi vừa có Đới - giảm 10% máu của đối phương, cùng khả năng gây chí mạng và nhảy hiệu ứng Trùng Ngoa thì sát thương gây ra sẽ cực kỳ lớn.
+  | Tuy nhiên, hiện tại giá trị nhất vẫn chỉ là Đới và Liên, và giá của Liên cũng ngang với Ngoa.

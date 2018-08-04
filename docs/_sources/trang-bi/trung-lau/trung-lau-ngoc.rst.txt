@@ -1,0 +1,39 @@
+.. _trang-bi-trung-lau-ngoc:
+
+Trùng Lâu Ngọc
+==============
+
+* Tỉ lệ gây Tê Liệt đối phương, kéo dài 15 giây.
+* Tỉ lệ gây Tê Liệt đối phương, kéo dài 20 giây (Chân Trùng Lâu Ngọc).
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_ngoc.jpg
+     :alt: Hình ảnh vật phẩm Ma tôn Trùng lâu Ngọc
+
+     Hình ảnh vật phẩm Ma tôn Trùng lâu Ngọc, có khả năng gây tê liệt mục tiêu 15 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_ngoc.png
+     :alt: Buff hiệu ứng Trùng Lâu Ngọc gây tê liệt đối phương, kéo dài 15 giây    
+
+     Buff hiệu ứng Trùng Lâu Ngọc gây tê liệt (ma tý - hình buff giống thanh kiếm màu xanh dương) đối phương, kéo dài 15 giây. Buff này giống với buff của :ref:`trang-bi-trung-lau-quy` (vì cùng là Trùng Lâu hộ phù (ngọc bội)) nhưng thời gian ảnh hưởng lên đối phương nhiều hơn, lên đến 15 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_ngoc.jpg
+     :alt: Hình ảnh vật phẩm Ma tôn Chân Trùng lâu Ngọc, có khả năng gây tê liệt mục tiêu 20 giây
+
+     Hình ảnh vật phẩm Ma tôn Chân Trùng lâu Ngọc, có khả năng gây tê liệt mục tiêu 20 giây.
+
+* Giá thị trường: 10, 12, 15 triệu đồng
+
+Ma Tôn Hồn Vũ Đổi Trùng Lâu
+---------------------------
+
+* Trùng Lâu Giới (cố định) & Trùng Lâu Ngọc (cố định) có thể đạt được bằng cách dùng 255 Ma Tôn Hồn Vũ và đổi tại Tô Châu - NPC Lương Sư Thành.
+   
+   * Trước phiên bản Cuồng Chiến Thiên Hạ: Ma Tôn Hồn Vũ đoạt được từ hoạt động Bá Giả Thiên Hạ, chiếm lĩnh thành trì thế tộc.
+
+   * Kể từ phiên bản Cuồng Chiến Thiên Hạ: Ma Tôn Hồn Vũ đoạt được thông qua hoạt động Vấn Đỉnh Thiên Hạ - Bang hội liên máy chủ tranh đấu.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_gioi_ngoc_ma_ton_hon_vu_to_chau_luong_su_thanh.png
+     :alt: Trùng lâu Giới và Ngọc đổi bằng Ma Tôn Hồn Vũ 
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_gioi_ngoc_ma_ton_hon_vu_to_chau_luong_su_thanh_2.png
+     :alt: Trùng lâu Giới và Ngọc đổi bằng Ma Tôn Hồn Vũ 

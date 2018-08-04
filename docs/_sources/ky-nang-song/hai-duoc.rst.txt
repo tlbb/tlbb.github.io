@@ -1,0 +1,197 @@
+Hái Dược
+========
+
+* Hái dược đem về dược thảo chính là nguyên liệu cho kỹ năng **Chế dược**, ngoài ra còn thu được các dược thảo phụ (bán sinh) cần cho việc 
+  chế các dược phẩm hiếm, bên cạnh đó nó cũng là một phần nguyên liệu của kỹ năng chế dược phẩm của các môn phái.
+
+* Mua liềm hái thuốc trong tiệm tạp hóa và dọn túi trước khi ra bản đồ hái dược nhé!
+
+Học Nghề
+--------
+
+* Có thể học ở các thành thị chính (chữ Ngư trên bản đồ) và nâng cấp về sau trong bang hội:
+
+  * Đại Lý: NPC Lưu Ký Nô (97, 128).
+  * Lạc Dương: NPC Khương Ngư (207, 184).
+  * Tô Châu: NPC Tưởng Bình (238, 77).
+  * Lâu Lan: NPC Sa Y Liên (34, 194).
+
+Thăng Cấp
+---------
+
+* Hái dược cho đủ điểm thành thạo của cấp hiện tại và liên hệ NPC để thăng cấp.
+* Cấp 1 - 5: thăng cấp tại NPC dạy hái dược ở các thành chính, tiêu tốn vàng và kinh nghiệm.
+* Cấp 5 - 10: NPC Chu Thế Hữu trong thành thị bang hội (129, 96; chữ Nông).
+
+Phân Bố
+-------
+
+.. list-table:: Bảng phân bố nguyên vật liệu từ nghề hái dược tại các bản đồ trò chơi   
+   :header-rows: 1
+
+   * - Cấp kỹ năng
+     - Bản đồ
+     - Dược liệu chính
+     - Dược liệu phụ
+     - Tiêu hao tinh lực/lần hái
+   * - 1
+     - Vô Lượng Sơn
+
+       Kiếm Các
+
+       Đôn Hoàng
+
+       Kính Hồ
+
+       Tung Sơn
+
+       Thái Hồ
+     - Bạch Anh
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/bach-anh-1.png
+
+       Bồ Hoàng
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/bo-hoang-1.png
+     - Kiến
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/kien-1.png
+     - 3
+   * - 2
+     - Tây Hồ
+     - Xuyên Bối
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/xuyen-boi-2.png
+
+       Nguyên Hồ
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/nguyen-ho-2.png 
+     - Ong Độc
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/ong-doc-2.png
+     - 4  
+   * - 3
+     - Nhĩ Hải
+     - Cam Thảo
+       
+       .. image:: /_static/images/ky-nang-song/hai-duoc/cam-thao-3.png
+
+       Tỳ Bà
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/ty-ba-3.png
+       
+       Kim Ngân Hoa
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/kim-ngan-hoa-3.png
+     - Ong Độc
+       
+       Tri Thù
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/tri-thu-3.png
+     - 5  
+   * - 4
+     - Nhạn Nam
+     - Trầm Hương
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/tram-huong-4.png
+
+       Câu Kỷ
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/cau-ky-4.png
+       
+       Hoàng Cầm
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/hoang-cam-4.png
+     - Ngô Công
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/ngo-cong-4.png
+     - 6  
+   * - 5
+     - Long Tuyền
+     - Phục Linh
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/phuc-linh-5.png
+
+       Thương Thuật
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/thuong-thuat-5.png
+
+       Đỗ Trọng  
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/do-trong-5.png
+     - Hạt Tử
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/hat-tu-5.png
+     - 7
+   * - 6
+     - Thương Sơn
+     - Hoàng Liên  
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/hoang-lien-6.png
+
+       Hương Nhu
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/huong-nhu-6.png
+
+       Phòng Phong 
+       
+       .. image:: /_static/images/ky-nang-song/hai-duoc/phong-phong-6.png
+     - Thiềm Thử
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/thiem-thu-6.png
+     - 8  
+   * - 7
+     - Nhạn Bắc
+     - Đương Qui
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/duong-qui-7.png  
+
+       Quế Tâm
+       
+       .. image:: /_static/images/ky-nang-song/hai-duoc/que-tam-7.png
+
+       Hương Phụ
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/huong-phu-7.png 
+     - Ngân Hoàn Xà
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/ngan-hoan-xa-7.png
+     - 9
+   * - 8
+     - Võ Di
+     - Hoắc Hương
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/hoac-huong-8.png  
+
+       Thủ Ô
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/thu-o-8.png
+
+       Hồi Thần Thảo
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/hoi-than-thao-8.png
+
+     - Ngân Hoàn Xà
+     - 10
+   * - 9
+     - Thạch Lâm
+     - Long Quì Tử
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/long-qui-tu-9.png 
+
+       Đông Trùng Hạ Thảo
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/dong-trung-ha-thao-9.png
+     - Trúc Diệp Thanh
+
+       .. image:: /_static/images/ky-nang-song/hai-duoc/truc-diep-thanh-9.png  
+     - 11
+   * - 10
+     - Thảo Nguyên
+     - Tượng Bối
+
+       Nhân Sâm
+     -  
+     - 12      
+
+*LingYun ghi chép lúc 22:26 29/7/2018*

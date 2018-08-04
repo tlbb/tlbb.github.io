@@ -1,0 +1,34 @@
+.. _:trang-bi-trung-lau-khoi:
+
+Trùng Lâu Khôi
+==============
+
+* Trùng Lâu Khôi & Chân Trùng Lâu Khôi
+* Tăng 5-10% xác suất đòn đánh chí mạng
+  
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_khoi.*
+     :alt: Hình ảnh vật phẩm Trùng lâu Khôi
+
+     Hình ảnh vật phẩm Trùng lâu Khôi, 100% tăng tỉ lệ bạo kích (đòn đánh chí mạng) thêm 5%
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_khoi.*
+     :alt: Hình ảnh vật phẩm Chân Trùng lâu Khôi
+
+     Hình ảnh vật phẩm Chân Trùng lâu Khôi, 100% tăng tỉ lệ bạo kích (đòn đánh chí mạng) thêm 10%
+
+* Như nhận xét riêng của cá nhân mình về :ref:`trang-bi-trung-lau-ngoa` trước đây rằng nó cũng là vật phẩm đáng mua sau :ref:`trang-bi-trung-lau-doi` và :ref:`trang-bi-trung-lau-lien`, thì sự xuất hiện của Trùng Khôi làm lung lay vị trí của Trùng Ngoa, khiến cho việc sở hữu thêm Trùng Lâu có chút do dự và đáng cân nhắc hơn, có thể thấy Trùng Khôi nhỉnh hơn vì khả năng *chắc chắn* tăng xác suất đòn đánh chí mạng. Và có lẽ bộ đôi Trùng Lâu Khôi và :ref:`trang-bi-trung-lau-thu` sẽ giúp nhân vật sở hữu tăng sức mạnh theo cách thức ăn chắc mặc bền: chí mạng - sát thương tổng thể.
+
+* Ra mắt đầu tiên vào `10/2/2016 - Thiên Giáng Minh Châu thuộc chuỗi sự kiện tết 2016 <http://ttl3d.zing.vn/su-kien/su-kien-tet-2016/thien-giang-trung-lau-khoi.html>`_, dùng 666 Lưu Ly Trân Châu (666x1000 = 666k KNB) để đổi Trùng Khôi (không cố định) và 1616 Lưu Ly Trân Châu để đổi Chân Trùng Khôi.
+* Gần đây, Trùng Khôi lại tái xuất với giá trị quy đổi là 500 Lưu Ly Trân Châu (rất tiếc là cố định, nằm trong chuỗi sự kiện `Vào Hạ - Thiên Giáng Minh Châu <http://ttl3d.zing.vn/su-kien/vao-ha/trung-lau-khoi-xuat-the.html>`_).
+* Giá thị trường: 20 triệu VNĐ
+* Nhân vật đầu tiên sở hữu Trùng Lâu Khôi là xNgạoThếx (Tên nhân vật trước đây: EmPhuong - BOSS Tiêu Dao - Máy chủ Giao Long 8 - Đại Thế Giới 2)
+
+  .. figure:: /_static/images/trang-bi/trung-lau/bo_sung/xNgaoThex_so_huu_trung_lau_khoi_dau_tien_1.*
+     :alt: Boss Tiêu Dao Thiên Long Bát Bộ - xNgạoThếx sở hữu Trùng Lâu Khôi đầu tiên
+
+  .. figure:: /_static/images/trang-bi/trung-lau/bo_sung/xNgaoThex_so_huu_trung_lau_khoi_dau_tien_2.*
+     :alt: Boss Tiêu Dao Thiên Long Bát Bộ - xNgạoThếx sở hữu Trùng Lâu Khôi đầu tiên
+
+     Boss Tiêu Dao Thiên Long Bát Bộ - xNgạoThếx sở hữu Trùng Lâu Khôi đầu tiên
+
+* Giá thị trường: 20m (Khôi)

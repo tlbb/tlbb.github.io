@@ -1,0 +1,37 @@
+.. Thien Long Tap Luc documentation master file, created by
+   sphinx-quickstart on Sat May 19 17:13:26 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Tân Thiên Long Bát Bộ Cẩm Nang Tạp Lục
+======================================
+
+* Đây là dự án mà LingYun muốn nhấn mạnh lại, một sự tái đầu tư, hệ thống hóa (rewrite, review) các nội dung vốn là nguồn thông tin tham khảo cho các quý bằng hữu 
+  đã được đăng tải từ lâu trên trang Thiên Long Bát Bộ Cẩm Nang Tạp Lục - tlbb.readthedocs.io.
+
+* LingYun hy vọng với lần tái biên này:
+
+  * Ghi chép đầy đủ các khía cạnh sâu sắc và lâu đời: kỹ năng sống, danh hiệu, cũng như kinh nghiệm về các vật phẩm thứ 13, 14, 15, 16 của trò chơi đi kèm đó 
+    là chuỗi hình ảnh trực quan mà mình đã bỏ công sức đứng thành và chụp lại.
+  * Ngoài ra đây cũng là nơi ghi chép các mốc thay đổi của trò chơi (sự xuất hiện của tính năng, phiên bản, vật phẩm) nhằm mục đích lưu trữ, tra cứu và thậm chí là nghiên cứu!  
+
+Trân trọng, LingYun tái bút ngày 4/8/2018 nhân một buổi tối thứ 7 lúc giông bão kéo đến!
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Nội dung chính:
+
+   tinh-nang/index
+   trang-bi/index
+   ky-nang-song/index
+   danh-hieu/index
+   su-kien/index
+   phien-ban/index
+   thong-tin-tac-gia
+
+Liên Kết Khác
+=============
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

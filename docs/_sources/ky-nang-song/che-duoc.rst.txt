@@ -1,0 +1,194 @@
+Chế Dược
+========
+
+* Nghề chế dược kết hợp với chế dược của môn phái làm ra những dược phẩm giúp tăng thuộc tính tấn công, có thể sử dụng chung 2 loại giúp tăng một lượng điểm thuộc tính bằng một viên
+  thuần tịnh tinh thạch cấp 6 đó!
+
+Học Nghề
+--------
+
+* Học nghề tại khu dược phố (chữ Dược trên bản đồ) ở các thành thị chính:
+
+  * Đại Lý: NPC Phó Đương Quy (97, 122).
+
+* Dùng nguyên liệu từ nghề **Hái dược** và đứng gần lò luyện đan ở gần các NPC dạy nghề để tiến hành chế dược.
+
+  .. figure:: /_static/images/ky-nang-song/che-duoc/lo-luyen-dan.png
+     :alt: Đứng gần lò luyện đan nằm ở các khu dược phố của các thành thị thì mới có thể chế dược!
+
+     Đứng gần lò luyện đan nằm ở các khu dược phố của các thành thị thì mới có thể chế dược!
+
+  .. figure:: /_static/images/ky-nang-song/che-duoc/che-duoc.png
+     :alt: Thông tin về nguyên liệu chế dược có thể đọc ngay tại công thức
+
+     Thông tin về nguyên liệu chế dược có thể đọc ngay tại công thức
+
+Thăng Cấp
+---------
+
+Chế dược cho đủ điểm thành thạo của cấp hiện tại và tiếp tục tăng cấp mới tại các NPC sau:
+
+* Từ 1 - 5: tại các NPC dạy nghề chế dược ở thành thị.
+* Từ 5 - 10: tại NPC Lư Hoàng Liên (50, 95; chữ Y trong thành thị bang hội).
+
+Dược Phương
+-----------
+
+* Một số dược phương nhập môn mua tại Dược Điếm ở các thành thị:
+
+  * Đại Lý: NPC Lô Tam Thất (105, 123).
+
+  .. figure:: /_static/images/ky-nang-song/che-duoc/duoc-phuong-1.png
+     :alt: Một số phương thức chế dược cơ bản có thể mua tại dược điếm (tiệm thuốc) ở các thành thị chính.
+
+     Một số phương thức chế dược cơ bản có thể mua tại dược điếm (tiệm thuốc) ở các thành thị chính.
+
+
+* Các dược phương cao cấp hơn mua tại NPC trong thành thị bang hội:
+
+  .. figure:: /_static/images/ky-nang-song/che-duoc/duoc-phuong-2.png
+     :alt: Các dược phương có thể mua trong thành thị bang hội
+
+     Các dược phương chế ra các loại dược phẩm giúp tăng thuộc tính tấn công có thể mua tại NPC chữ Y - Lư Hoàng Liên trong thành thị bang hội.
+
+.. list-table:: Danh sách dược phẩm từ kỹ năng chế dược TLBB  
+   :header-rows: 1
+
+   * - Cấp
+     - Tên và công dụng
+     - Cách thức     
+   * - 1
+     - Thiên Nhãn Đan (+ Huyền công)
+
+       Băng Linh Tán (+ Độc công)
+
+       Âm Nguyệt Tán (+ Băng công)
+
+       Bá Vương Hoàn (+ Hỏa công)
+
+       Bách Mạch Tán (hồi máu)       
+
+       Hành Huyết Tán (hồi máu nhanh)
+
+       Bách Hoa Hoàn (hồi máu)
+
+       Hoạt Huyết Toán (hồi máu nhanh)
+
+       Thanh Tâm Tán (hồi máu)
+
+       Kim Sang Dược (hồi máu nhanh) 
+     - Công thức chế dược sơ cấp: dược liệu cấp 1 - 3       
+   * - 4
+     - Khinh Thân Tán (+ Huyền công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/khinh-than-tan-4.png
+
+       Long Nha Tán (+ Độc công)    
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/long-nha-tan-4.png
+
+       Thiên Hương Cao (+ Băng công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/thien-huong-cao-4.png
+
+       Hạc Vũ Đan (+ Hỏa công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/hac-vu-dan-4.png 
+
+       Lưu Vân Cao (hồi máu)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/luu-van-cao-4.png 
+
+       Lộc Nhung Đan (hồi máu nhanh)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/loc-nhung-dan-4.png 
+
+       Hồi Tâm Đan (hồi máu)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/hoi-tam-dan-5.png 
+
+       Sâm Tâm Đan (hồi máu nhanh)
+
+       Thần Định Hoàn (hồi máu)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/than-dinh-hoan-6.png 
+     - Công thức chế dược trung cấp: dược liệu cấp 4 - 6   
+   * - 7
+     - Tiên Đan Vô Danh (+ Huyền công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-vo-danh-7.png 
+
+       Tiên Đan Thái Khê (+ Độc công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-thai-khe-7.png 
+
+       Tiên Đan Thúy Lưu (+ Băng công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-thuy-luu-7.png 
+
+       Tiên Đan Thanh Lân (+ Hỏa công)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-thanh-lan-7.png 
+
+       Tiên Đan Huy Nguyệt (hồi máu)
+
+       Tiên Đan Âm Dương (hồi máu)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-am-duong-8.png 
+
+       Tiên Đang Hàn Yên (hồi máu)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-han-yen-8.png 
+     - Công thức chế dược cao cấp: dược liệu cấp 7 - 9
+   * - 3
+     - Tuyền Tinh Tán (+ 20 Băng công trong 30 phút)
+
+       Thiên Xích Đan (+ 20 Huyền công trong 30 phút)
+
+       Tích Lịch Tán (+ 20 Hỏa công trong 30 phút)
+
+       Qui Tâm Hoàn (+ 20 Độc công trong 30 phút)
+     - 2 Tỳ Bà
+
+       2 Kim Ngân Hoa
+
+       4 Tri Thù
+   * - 6
+     - Băng Long Đan (+ 72 Băng công trong 30 phút)
+
+       Quy Giáp tán (+ 72 Huyền công trong 30 phút)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/quy-giap-tan-6.png 
+
+       Kim Lôi Hoàn (+ 72 Hỏa công trong 30 phút)
+
+       Ngũ Độc Tán (+ 72 Độc công trong 30 phút)
+     - 3 Hương Nhu
+      
+       3 Hoàng Liên
+
+       6 Thiềm Thử
+   * - 9
+     - Tiên Đan Băng Lan (+ 120 Băng công trong 30 phút)
+       
+       Tiên Đan Tị Tà (+ 120 Huyền công trong 30 phút)
+
+       .. image:: /_static/images/ky-nang-song/che-duoc/tien-dan-ti-ta-9.png 
+
+       Tiên Đan Huyền Viêm (+ 120 Hỏa công trong 30 phút)
+
+       Tiên Đan Phụng Châu (+ 120 Độc công trong 30 phút)
+     - 5 Đông Trùng Hạ Thảo
+
+       7 Long Quì Tử
+
+       12 Trúc Diệp Thanh
+
+Kinh Nghiệm
+-----------
+
+* Các loại dược phẩm hiếm cần tiêu tốn các loại dược phụ có thể nhặt được lúc hái dược, vì vậy đừng vội vứt các loại dược phụ (bạn sinh) này nhé!
+* Học và tăng cấp kỹ năng dược lý càng cao để giảm tiêu hao hoạt lực khi chế dược và tăng tỉ lệ ra các dược phẩm hiếm, dược phẩm ngẫu nhiên khi chế theo 3 công thức: sơ cấp, trung cấp, cao cấp.
+* Hình ảnh các loại dược liệu cấn để chế dược các bạn có thể xem trang nghề **Hái dược**, mình đã kèm theo hình ảnh hầu hết các loại dược phẩm và vị trí hái của chúng.
+
+*LingYun ghi chép lúc 21:33 30/7/2018*

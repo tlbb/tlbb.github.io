@@ -1,0 +1,36 @@
+Gia Công Nguyên Liệu
+====================
+
+Gia Công Nguyên Liệu là kỹ năng mà từ các nguyên liệu thô (các kỹ năng thu thập: trồng trọt; các nguyên liệu nhặt từ quái ở bãi luyện công)
+đem đi gia công thành nguyên liệu cho các kỹ năng chế tạo khác: May mặc, Đúc, Công nghệ..
+
+Học Nghề
+--------
+
+Học tại Lạc Dương: NPC Phùng Chú Thiết (250, 315)
+
+Phối Phương
+-----------
+
+Mua các công thức gia công nguyên liệu tại NPC, gồm:
+
+* Đoạn Thạch: nguyên liệu đúc.
+* Chú Thiết: nguyên liệu đúc.
+* Luyện Ngọc: nguyên liệu công nghệ.
+* Nhận Cách: nguyên liệu may mặc (chế đồ thủ).
+* Bố Phiến: nguyên liệu may mặc (chế đồ thủ).
+* Vải: nguyên liệu may mặc (chế thời trang).
+* Tuyến Đoàn: nguyên liệu may mặc (chế thời trang).
+* Nhiễm Tễ: nguyên liệu may mặc (chế thời trang).
+
+.. figure:: /_static/images/ky-nang-song/gia-cong-nguyen-lieu/npc.png
+   :alt: NPC Phùng Chú Thiết (Lạc Dương 250, 315) dạy và bán các phối phương gia công nguyên liệu
+
+   NPC Phùng Chú Thiết (Lạc Dương 250, 315) dạy và bán các phối phương gia công nguyên liệu
+
+.. figure:: /_static/images/ky-nang-song/gia-cong-nguyen-lieu/ky-nang.png
+   :alt: Có thể mở bảng kỹ năng và xem thông tin các nguyên liệu có thể đem đi gia công
+
+   Có thể mở bảng kỹ năng và xem thông tin các nguyên liệu có thể đem đi gia công
+
+*LingYun ghi chép lúc 21:59 31/7/2018*

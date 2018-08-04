@@ -1,0 +1,39 @@
+.. _trang-bi-trung-lau-gioi:
+
+Trùng Lâu Giới
+==============
+
+* Tỉ lệ gây Phong Huyệt đối phương, kéo dài 15 giây.
+* Tỉ lệ gây Phong Huyệt đối phương, kéo dài 20 giây (Chân Trùng Lâu Giới).
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_gioi.jpg
+     :alt: Hình ảnh vật phẩm Trùng lâu Giới
+
+     Hình ảnh vật phẩm Trùng lâu Giới, là một chiếc nhẫn (giới chỉ) khi trang bị, trong đòn đánh xuất ra có tỷ lệ gây phong huyệt mục tiêu trong 15 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_gioi.jpg
+     :alt: Hình ảnh vật phẩm Chân Trùng lâu Giới
+
+     Hình ảnh vật phẩm Chân Trùng lâu Giới, là một chiếc nhẫn (giới chỉ) khi trang bị, trong đòn đánh xuất ra có tỷ lệ gây phong huyệt mục tiêu lên tới 20 giây, cơ hội có được thông qua các sự kiện như Kinh Hỷ Tam Liên (hiếm vì ít ai chịu chơi).
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_gioi.png
+     :alt: Hình ảnh buff hiệu ứng của Trùng lâu Giới
+
+     Hình ảnh buff hiệu ứng của Trùng lâu Giới.
+
+* Giá thị trường: 8, 10 triệu đồng
+
+Ma Tôn Hồn Vũ Đổi Trùng Lâu
+---------------------------
+
+* Trùng Lâu Giới (cố định) & Trùng Lâu Ngọc (cố định) có thể đạt được bằng cách dùng 255 Ma Tôn Hồn Vũ và đổi tại Tô Châu - NPC Lương Sư Thành.
+   
+   * Trước phiên bản Cuồng Chiến Thiên Hạ: Ma Tôn Hồn Vũ đoạt được từ hoạt động Bá Giả Thiên Hạ, chiếm lĩnh thành trì thế tộc.
+
+   * Kể từ phiên bản Cuồng Chiến Thiên Hạ: Ma Tôn Hồn Vũ đoạt được thông qua hoạt động Vấn Đỉnh Thiên Hạ - Bang hội liên máy chủ tranh đấu.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_gioi_ngoc_ma_ton_hon_vu_to_chau_luong_su_thanh.png
+     :alt: Trùng lâu Giới và Ngọc đổi bằng Ma Tôn Hồn Vũ 
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_gioi_ngoc_ma_ton_hon_vu_to_chau_luong_su_thanh_2.png
+     :alt: Trùng lâu Giới và Ngọc đổi bằng Ma Tôn Hồn Vũ 

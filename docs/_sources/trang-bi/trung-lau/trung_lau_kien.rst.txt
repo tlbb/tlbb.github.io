@@ -1,0 +1,22 @@
+Trùng Lâu Kiên
+==============
+
+* Giảm sát thương 5% (Trùng Lâu Kiên)
+* Giảm sát thương 15% (Trùng Lâu Kiên Siêu Cấp)
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_kien.jpg
+     :alt: Trùng Lâu Kiên, rất thích hợp với các phái ngoại công, chịu đòn, và đặc biệt rất hữu ích với Nga Mi
+
+     Trùng Lâu Kiên, rất thích hợp với các phái ngoại công, chịu đòn, và đặc biệt rất hữu ích với Nga Mi.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_kien.png
+     :alt: Hình ảnh buff hiệu ứng Trùng lâu Kiên, giảm tới 15% sát thương, là món trùng lâu rất thích hợp với các phái chịu đòn như Nga Mi, Cái Bang, Minh Giáo  
+
+     Hình ảnh buff hiệu ứng Trùng lâu Kiên, giảm tới 15% sát thương, là món trùng lâu rất thích hợp với các phái chịu đòn như Nga Mi, Cái Bang, Minh Giáo       
+
+  .. figure:: /_static/images/trang-bi/trung-lau/sieu_cap_trung_lau_kien.jpg
+     :alt: Trùng Lâu Kiên siêu cấp, giảm sát thương tới 15%
+
+     Trùng Lâu Kiên siêu cấp, giảm sát thương tới 15%. Món Trùng Lâu này cũng thường xuất hiện trong các sự kiện Thiên Giáng Minh Châu.
+
+* Giá thị trường: ~ 10 triệu đồng

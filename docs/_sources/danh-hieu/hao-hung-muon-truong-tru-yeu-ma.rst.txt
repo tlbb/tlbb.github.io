@@ -1,0 +1,13 @@
+Hào Hùng Muôn Trượng Trừ Yêu Ma
+===============================
+
+* Sưu tầm đồ giám các quái vật trong trò chơi đến một lượng nhất định sẽ nhận được danh hiệu. Nhìn chung không quá khó, chịu khó đi các phụ bản lúc BOSS gần chết (ống máu 1/3) nó xuất hiện
+  cái thanh đao, bấm vào để sưu tập đồ giám.
+
+  .. figure:: /_static/images/danh-hieu/hao-hung-muon-truong-tru-yeu-ma.png
+     :alt: Danh hiệu Hào Hùng Muôn Trượng Trừ Yêu Ma TLBB     
+
+  .. figure:: /_static/images/danh-hieu/kho-tang-do-giam.png
+     :alt: Kho Tàng Đồ Giám
+
+     Sưu tầm một lượng Quái vật đồ giám nhất định sẽ nhận được danh hiệu Hào Hùng Muôn Trượng Trừ Yêu Ma

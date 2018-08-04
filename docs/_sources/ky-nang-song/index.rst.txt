@@ -1,0 +1,82 @@
+Kỹ Năng Sống
+============
+
+* Kỹ năng sống trong TLBB là một mảng rất vui và trường kỳ, giúp giết thời gian, đòi hỏi sự kiên trì, thời xa xưa kỹ năng sống đặc biệt là chế đồ còn hưng thịnh, bây giờ kỹ năng
+  sống chủ yếu dùng để chể dược phẩm (thuốc lắc) để kháng khống chế của các môn phái hoặc đơn giản là ai đó có lòng ham thích muốn tìm hiểu và trải nghiệm thì mới dám kiên trì với kỹ năng sống.
+
+* Kỹ năng sống được chia làm 3 nhóm chính:
+
+  * Nhóm thu thập: là các kỹ năng giúp thu thập nguyên liệu cho các kỹ năng chế tạo
+
+    * Câu cá.
+    * Trồng trọt.
+    * Hái dược.
+    * Khai khoáng.    
+
+  * Nhóm chế tạo:
+
+    * May mặc (đồ thủ: mũ, áo, bao tay, hộ kiên, giày, thắt lưng (nịt), hộ uyển) dùng nguyên liệu chính là sợi vải từ nghề trồng trọt.
+    * Tinh chế: giống may mặc nhưng nguyên liệu chính là miên bố (miếng vải).
+    * Công nghệ (đồ công: nhẫn, ngọc bội, hạng liên) dùng nguyên liệu chính là khoáng sản từ nghề khai khoáng.
+    * Tinh công: giống công nghệ nhưng nguyên liệu chính là bí ngân.
+    * Đúc (vũ khí) dùng nguyên liệu chính là khoáng sản từ nghề khai khoáng.
+    * Tinh luyện: giống đúc nhưng nguyên liệu chính là tinh thiết.
+    * Gia công nguyên liệu: đây là nghề chế tạo trung gian, chế ra các vật phẩm cần cho các nghề may mặc, công nghệ, đúc.
+    * Nấu nướng: dùng nguyên liệu từ nghề câu cá hoặc nông sản từ nghề trồng trọt.
+    * Chế dược: dùng nguyên liệu từ nghề hái dược.
+    * Chế dược môn phái.
+    * Chỉ xích thiên nhai: chế định vị phù.
+
+  * Nhóm phụ trợ:
+
+    * Cường thân: tăng hoạt lực (sức lực để sử dụng các kỹ năng chế tạo).
+    * Kiện thể: tăng tinh lực (sức lực để đi thu thập nguyên liệu).
+    * Hoạt huyết: tăng giới hạn sinh lực.
+    * Dưỡng khí: tăng giới hạn khí.
+    * Dược lý: giảm tiêu hao hoạt lực khi chế dược.
+    * Dưỡng sinh: giảm tiêu hao hoạt lực khi nấu nướng.
+    * Kỹ năng bổ trợ kỹ năng chế dược của các môn phái: giảm tiêu hao hoạt lực khi chế dược môn phái.
+
+* Đa số các kỹ năng sống đều có thể học và thăng cấp 1 - 5 tại các thành thị chính. Từ cấp 5 trở đi phải thăng cấp tại các NPC trong bang hội.
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Kỹ Năng Thu Thập:
+
+   hai-duoc
+   cau-ca
+   trong-trot   
+   khai-khoang
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Kỹ Năng Chế Tạo:
+
+   chi-xich-thien-nhai
+   che-duoc
+   nau-nuong
+   gia-cong-nguyen-lieu
+   duc
+   may-mac  
+   cong-nghe
+   tinh-cong-tinh-che-tinh-luyen
+
+
+Phụ Lục Kỹ Năng Chế Tạo
+-----------------------
+
+* Hai kỹ năng chế dược và nấu nướng sẽ luôn có 3 loại công thức cơ bản: chế dược/nấu nướng sơ cấp, trung cấp và cao cấp, tương ứng với các loại nguyên liệu cấp 1-3, 4-6, 7-10.
+* Đả tạo đồ & Đồ tường:
+
+  * Đồ tường: là công thức dạy cho chúng ta cách chế tạo một món vật phẩm, chỉ cần học một lần.
+  * Đả tạo đồ: là nguyên liệu cần cho mỗi lần chế một vật phẩm.
+  * Cấp độ:
+
+    * Đối với vũ khí thì đồ tường cấp n sẽ chế được các vũ khí cấp nx tương ứng. Ví dụ Đồ tường cấp 5 thì chế được vũ khí 5x (cấp 50).
+    * Đối với đồ chế thì đồ tường cấp n sẽ chế được các món đồ có cấp (n-1)x tương ứng. Ví dụ đồ tường cấp 5 thì chế được quần áo, giới chỉ, hộ phù, hạng liên.... cấp 4x (< 50).
+  * Cách tìm Đả tạo đồ & Đồ tường thì các bạn đọc trong ghi chú riêng của từng nghề chế tạo nhé.
+  
+* Các nguyên liệu dùng trong gia công nguyên liệu cho ra nhận cách, bố phiến, luyện ngọc có thể vào Tiền trang Lạc Dương - Tiệm Điểm tặng để xem hình mẫu các vật phẩm và ghi nhớ để
+  ra map đi train nhặt về. Cần nhớ là để bước chân vào nghề chế đồ thủ công, thì việc đi train nhặt nguyên liệu là việc không thể tránh khỏi.
+
+*LingYun tái bút lúc 23:49 2/8/2018*

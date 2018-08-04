@@ -1,0 +1,14 @@
+Trùng Lâu Triệu
+===============
+
+* Tỉ lệ gây Phong Huyệt đối phương, kéo dài 7 giây
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_trieu.jpg
+     :alt: Bảo vật Ma tôn Trùng Lâu Triệu, có khả năng gây phong huyệt mục tiêu trong 7 giây
+
+     Cùng loại nhẫn (giới chỉ) như :ref:`trang-bi-trung-lau-gioi` nhưng hiệu ứng có suy giảm đôi chút, bảo vật Ma tôn Trùng Lâu Triệu, có khả năng gây phong huyệt mục tiêu trong 7 giây.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/hieu_ung_trung_lau_trieu.png
+     :alt: Hình ảnh buff hiệu ứng của thần khí Ma Tôn Trùng lâu Triệu
+
+     Hình ảnh buff hiệu ứng của Trùng lâu Triệu, có xác suất gây phong huyệt mục tiêu trong 7 giây.

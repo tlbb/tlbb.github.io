@@ -1,0 +1,86 @@
+Hào Hiệp Ấn
+===========
+
+* Là vật phẩm thứ 16 xuất hiện trong phiên bản Quân Lâm Thiên Hạ, đây được coi là vật phẩm có điểm cộng các chỉ số cao nhất trong game TLBB (hơn cả Trùng Lâu)
+  khi Hào Hiệp Ấn đạt cấp tối đa 100, trong đó 2 dòng chủ đạo là tăng tấn công và giảm kháng thuộc tính.
+
+  .. figure:: /_static/images/trang-bi/hao-hiep-an/npc.png
+     :alt: Vị trí NPC liên quan đến Hào Hiệp Ấn TLBB
+
+     Các thao tác liên quan đến Hào Hiệp Ấn đều được cung cấp tại 2 NPC ở giữa Thành thị Bang hội: Triệu Tử Huân & Triệu Minh Khởi
+
+* Nhận Hào Hiệp Ấn cấp 1 bằng cách dùng 100 điểm chiến công (điểm chiến công có như thế nào hãy đọc ở dưới).
+
+.. figure:: /_static/images/trang-bi/hao-hiep-an/huyen-vu-bat-cuc-hao-hiep-an.jpg
+   :alt: Hình ảnh về Hào Hiệp Ấn TLBB, khi đạt cấp 100 (bát cực), điểm cộng cao ngút trời!!
+
+   Hình ảnh về Hào Hiệp Ấn khi đạt cấp 100, điểm cộng cao ngút trời!!
+
+
+Phân Loại
+---------
+
+* Huyền Vũ: tăng băng công chủ đạo.
+* Chu Tước: tăng hỏa công chủ đạo.
+* Bạch Hổ: tăng huyền công chủ đạo.
+* Thanh Long: tăng độc công chủ đạo.
+
+Cấp Hào Hiệp Ấn
+---------------
+
+* Cấp tối đa: 100.
+
+  .. csv-table:: Tên gọi Hào Hiệp Ấn theo các mốc cấp độ
+     :header: "Cấp", "Tên gọi"
+
+     1, "Thái Nhất"
+     10, "Lưỡng Nghi"
+     25, "Tam Tài"
+     40, "Tứ Tượng"
+     55, "Ngũ Hành"
+     70, "Lục Hợp"
+     85, "Thất Tinh"
+     100, "Bát Cực"
+
+* Để nâng cấp Hào Hiệp Ấn ta cần dùng vật phẩm **Hào Hiệp Huy Hiệu** có được thông qua:
+
+  * Dùng điểm chiến công để mua trong tiệm chiến công
+
+    * Nộp vật phẩm Chiến Hồn Ngọc cho NPC Triệu Minh Khởi trong tuần, sang tuần sau nhận điểm chiến công.
+      
+      Chiến Hồn Ngọc nhặt được khi tham gia các phụ bản: Yến Tử Ổ, Thiếu Thất Sơn, Tứ Tuyệt Trang, Binh Thánh Kỳ Trận, Huyết chiến Nhạn Môn Quan.
+      
+    * Điểm chiến công có thể kiếm thêm khi tham gia hoạt động Hùng Bá Thiên Hạ (2 bang liên máy chủ đấu nhau) vào tối T2 và tối T6.
+
+    * Event Thiên Giáng Minh Châu.
+
+    .. figure:: /_static/images/trang-bi/hao-hiep-an/tiem-chien-cong.png
+       :alt: Hình ảnh về Tiệm chiến công
+
+       Tiệm chiến công, nơi bán các vật phẩm liên quan đến Hào Hiệp Ấn
+
+Hiệu Quả Giảm Khống Chế
+-----------------------
+
+* Khi Hào Hiệp Ấn thăng cấp đạt các mốc 10, 25, 40, 55, 70, 85, 100 thì có thể tăng cấp thêm các hiệu quả giảm khống chế.
+
+* Dùng điểm chiến công và mua vật phẩm **Ngự Tứ Lệnh Thưởng** trong tiệm chiến công, sau đó sử dụng nó để có điểm công trạng dùng để tăng hiệu quả giảm khống chế.
+
+* Các hiệu quả giảm khống chế xoay quanh tất cả hiệu ứng khống chế có trong game: phong ấn, phong huyệt, tê liệt (ma tý), thất minh (mù), tản công, vây khốn, hôn mê.
+
+.. figure:: /_static/images/trang-bi/hao-hiep-an/hieu-qua-giam-khong-che.png
+   :alt: Hình ảnh về việc thăng cấp hiệu quả giảm khống chế cho Hào Hiệp Thụ Ấn
+
+   Ở tab Hào Hiệp Ấn trong bảng thông tin nhân vật, có thể kiểm tra chiến công trong tuần, điểm công trạng cũng như chọn thăng cấp hiệu quả giảm khống chế.
+
+Kinh Nghiệm
+-----------
+
+* Để làm Hào Hiệp Ấn nhanh thì chỉ có cách tham gia bang mạnh trong máy chủ, đi Hùng Bá Thiên Hạ để được nhiều điểm chiến công.
+* Cân nhắc lựa chọn hiệu quả giảm khống chế nào để tăng trước, nếu bản phái đã có kỹ năng giải khống chế nào thì nên bỏ qua hoặc để sau và ưu tiên tăng các hiệu quả giảm khống chế khác.
+  Mẹo: đối với LingYun thì hiện tại đa số tất cả các nhân vật đều có từ 1 - 2 Trùng Lâu "Tàu" mini (Quy và Triệu), cho nên LingYun ưu tiên tăng hiệu quả giảm khống chế
+  Tê liệt (Trùng lâu Quy) và Phong huyệt (Trùng lâu Triệu).
+
+  Ngoài ra cũng nên khảo sát và thống kê xem hay bị phái nào chơi "khó" (làm khổ) nhất thì xem thử bị khống chế gì rồi từ đó đưa ra quyết định.
+
+*LingYun ghi chép lần 2 lúc 20:52 28/7/2018*

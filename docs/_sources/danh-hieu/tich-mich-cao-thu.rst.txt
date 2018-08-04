@@ -1,0 +1,52 @@
+Tịch Mịch Cao Thủ
+=================
+
+* Đây là nhiệm vụ anh hùng **Cổ Lai Anh Hùng Đều Cô Độc** nhận tại NPC ở phía Nam thành Lạc Dương, đi gặp các NPC theo thứ tự để hoàn thành nhiệm vụ. 
+  Kết thúc được một món đồ môn phái (quên béng phái gì) và danh hiệu **Tịch Mịch Cao Thủ**.
+
+  .. figure:: /_static/images/danh-hieu/tich-mich-cao-thu.png
+     :alt: Hình ảnh danh hiệu Tịch Mịch Cao Thủ
+
+     Danh hiệu Tịch Mịch Cao Thủ có được sau khi hoàn thành nhiệm vụ Anh hùng: Cổ Lai Anh Hùng Đều Cô Độc
+
+* Tọa độ NPC được ghi chép bởi mình (LingYun ^_^).
+
+  1. Trịnh Thiên Thọ - Tô Châu 330 329
+  2. Nguyệt Lão
+  3. Tiêu Viên Sơn - Thiếu Lâm
+  4. Yến Kì Đạo (Án Kì Đạo) - Kiếm Các
+  5. Nguyễn Tinh Trúc - Kính Hồ
+  6. Tát Lỗ - Thương Sơn
+  7. Thẩm Vạn Tam - Mai Lĩnh 172 75
+  8. Giám Khảo 5 (Khảo quan ngũ) - Đại Lý 136 113
+  9. Trịnh Vô Danh - NPC chữ Nha trong bang hội 
+  10. Bá Nhan - Liêu Tây 164 199
+  11. Đoàn Diên Khánh - Đại Lý 277 262
+  12. Âu Dương Tu - Tô Châu 176 183
+  13. Tất Thăng - Lạc Dương 225 355
+  14. Toàn Quán Thanh - Cái Bang 120 63
+  15. Gia Luật Dư Đổ -  Nhạn Bắc 195 41
+  16. Giám quan 3 (Khảo quan tam) - Đại Lý 100 108
+  17. Tần Quán - Tiêu Dao 119 152
+  18. Tô Thức - Tô Châu 166 311
+  19. Hoàn NHan A Cốt Đả - Trường Bạch Sơn 234 78
+  20. Khảo quan 7 (Giám khảo thất) - Đại Lý 197 99
+  21. Nhạc Lão Tam - Quỳnh Châu 256 242
+  22. Tông Tán - Lạc Dương 221 195
+  23. Hoàng Thường - Võ Đang 101 69
+  24. Hô Diên Khánh - Thái Hồ 67 77
+  25. Khảo quan 12 - Đại Lý 263 142
+  26. Thủy Tiên - Võ Di 205 43
+  27. Châu Bang Ngạn - Lạc Dương 341 237
+  28. Mã Thực - Nhạn Nam 130 49
+  29. Tề Thánh - NPC trong PB Trân Long Kỳ Cuộc
+  30. Gia Cát Khổng Minh - Lạc Dương 290 322
+  31. Mộ Dung Bác - Thiếu Lâm 144 149
+  32. Phật Ấn - Cái Bang 41 144
+  33. Tần Hồng Miên - Thạch Lâm 45 44
+  34. Trúc Kiếm - Thiên Sơn 98 44
+  35. Lý Sư Sư - Lạc Dương 349 253
+  36. Phương Lạp - Minh Giáo 89 56
+  37. Cưu Ma Trí - Đôn Hoàng 62 98
+  38. Âu Dã Tử - Tô Châu 352 234
+  39. Tảo Địa Lão Tăng - Thiếu Lâm 122 143

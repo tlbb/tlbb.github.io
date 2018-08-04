@@ -1,0 +1,174 @@
+Chân Nguyên
+===========
+
+* Chân Nguyên là vật phẩm được gắn vào trong 12 vị trí tương ứng với 12 món trang bị của nhân vật, 
+  giúp tăng thêm một lượng % nhất định dựa theo loại thuộc tính Chân Nguyên.
+
+  Ví dụ::
+
+    Chân nguyên cam huyền công cấp (Tranh - Huyền) cấp 6 giúp tăng 110% huyền công 
+    dựa trên tổng điểm thuộc tính của trang bị và bảo thạch khảm trên trang bị.
+    
+    Gắn Chân Nguyên trên vào hộ phù có dòng opt + 120 huyền công, và đang khảm 3 viên Huyền tinh thạch cấp 5 (3 x 120 = 360).
+
+    Vậy khi gắn Chân Nguyên trên vào sẽ giúp tăng thêm 110% * (120 + 3 x 120) = 110% * 480 = 528 huyền công.
+    
+    Với Chân Nguyên cam, thì lượng điểm cộng từ Chân Nguyên còn cao hơn cả tổng cộng từ ngọc + opt của đồ (528 > 480).
+    Về sau với sự xuất hiện của Chân Nguyên vàng thì lượng % còn cao hơn nữa (hơn 30% so với Chân Nguyên cam)
+
+* Chân Nguyên được gắn vào trong 2 bảng: 
+  
+  * Càn Thiên: 6 trang bị tấn công - 2 hộ phù, 2 giới chỉ, hạng liên, hộ uyển; thích hợp với các loại Chân Nguyên thuộc tính tấn công (Băng, huyền, hỏa, độc..)
+  * Khôn Địa: 6 trang bị phòng thủ - mũ, áo, hộ kiên, hộ thủ, yêu đai, giày; thích hợp với các loại Chân Nguyên thuộc tính cơ bản (thể lực, nội lực, né tránh..)
+
+Cách Sở Hữu Chân Nguyên
+-----------------------
+
+* Cách sở hữu Chân Nguyên:
+
+  * Thực hiện *ngưng nguyên* tại NPC Trương Sĩ Tâm - Tô Châu (352, 228) sẽ có cơ hội được ngẫu nhiên các loại Chân Nguyên với 1 trong 4 màu: lam, lục, tím, cam.
+    
+    Riêng với Chân Nguyên vàng thì phải sử dụng vật phẩm Nguyên chú kim phù để biến đổi từ Chân Nguyên cam thành Chân Nguyên vàng.
+  * Sự kiện Chân Nguyên Thần Phách: dùng điểm Chân Nghĩa thông qua việc sử dụng vật phẩm Chân Nguyên Thần Phách để đổi Chân Nguyên Tím hoặc Cam.
+  * Các sự kiện khác.
+
+  .. figure:: /_static/images/chuc-nang/chan-nguyen/ngung-nguyen.png
+     :alt: Hình ảnh tổng quan về Chân Nguyên trong game TLBB
+
+     Các điểm cần nắm về Chân Nguyên: vị trí 2 bảng càn thiên và khôn địa, điểm **Nguyên Tinh**, điểm Chân Nguyên tinh túy, lò phân giải (hủy) Chân Nguyên
+
+Màu Sắc Chân Nguyên
+-------------------
+
+* Chân Nguyên được chia làm 4 màu, theo thứ tự từ "dỏm" đến "xịn" nhất (hiệu quả % tăng dần): 
+
+  * Lục 
+  * Lam
+  * Tím (Tử)
+  * Cam (Tranh)
+  * Vàng (Tăng thêm 30% của Chân Nguyên cam)
+
+.. figure:: /_static/images/chuc-nang/chan-nguyen/tong-quan.png
+     :alt: Hình ảnh tổng quan về Chân Nguyên trong game TLBB
+
+     Các điểm cần nắm về Chân nguyên: vị trí 2 bảng càn thiên và khôn địa, điểm **Nguyên Tinh**, điểm Chân Nguyên tinh túy, lò phân giải (hủy) Chân Nguyên
+
+Cấp Độ Chân Nguyên
+------------------
+
+* Cấp độ Chân Nguyên: cấp tối đa là cấp 9, Chân Nguyên cấp càng cao thì hiệu quả % càng cao.
+
+* Tăng cấp Chân Nguyên: để tăng cấp, để chuột vào dấu mũi tên bên cạnh Chân Nguyên để xem cần bao nhiêu điểm **Nguyên Tinh** mới có thể nâng cấp.
+
+* Điểm **Nguyên Tinh** có được thông qua:
+
+  * Phân giải Chân Nguyên, là đem bỏ Chân Nguyên không cần dùng nữa vào lò phân hủy.  
+  * Sử dụng vật phẩm Thần Nguyên Túy (sự kiện Chân Nguyên Thần Phách, Chân Nghĩa Mãn Giang Hồ), Thiên Nguyên Túy.
+
+.. csv-table:: Ghi chép lượng nguyên tinh dùng để nâng cấp chân nguyên cam 
+   :header: "Từ cấp", "Đến cấp", "Nguyên tinh"
+
+   5, 6, 61k
+   6, 7, 129k
+   7, 8, 245k
+   8, 9, 425k
+
+Phụ Lục
+-------
+
+* Phụ lục về Chân Nguyên vàng
+
+.. figure:: /_static/images/chuc-nang/chan-nguyen/nguyen-chu-kim-phu.png
+     :alt: Hình ảnh về vật phẩm Nguyên Chú Kim Phù
+
+     Vật phẩm Nguyên Chú Kim Phù giúp chuyển đổi từ Chân nguyên Cam sang Chân nguyên Vàng
+
+.. figure:: /_static/images/chuc-nang/chan-nguyen/thao-tac-nguyen-chu-kim-phu.png
+     :alt: Hình ảnh thao tác chuyển đổi Chân Nguyên cam và Chân Nguyên vàng
+
+     Chuyển đổi từ Chân Nguyên cam sang Chân Nguyên vàng, hiệu quả % tăng thêm 30% so với Chân Nguyên cam 
+     (trong hình: Chân Nguyên cam 6 tăng 110%, Chân Nguyên vàng 6 = (110 + 30% * 110) = 143%).
+
+Kinh Nghiệm
+-----------
+
+* Theo kinh nghiệm của LingYun thì tỉ lệ ngưng nguyên và phân giải từ chân nguyên tinh túy thành nguyên tinh (để tăng cấp chân nguyên) là 0.55.
+  
+  Cụ thể hơn, để có được điểm nguyên tinh, thông thường chúng ta sẽ làm theo 2 cách:
+
+  * Có điểm chân nguyên tinh túy (dùng vật phẩm Chân nguyên tinh phách/thần phách/linh phách), ta ngưng nguyên để ra ngẫu nhiên các loại chân nguyên tính: lục, lam, tím, cam và
+    phân giải chúng để có được nguyên tính. Tỉ lệ 0.55 là do mình tính trung bình sau nhiều lần phân giải, có thể nếu bạn gặp may ngưng nguyên ra được nhiều chân nguyên tím và cam
+    thì phân giải được nhiều nguyên tinh hơn.
+    
+    * CN Tím cấp 1 phân giải được 300 nguyên tinh.
+    * CN Cam cấp 1 phân giải được 1000 nguyên tinh.
+    * CN Lục, Lam phân giải được bao nhiêu thì quên mất rồi, nói chung rất ít.
+
+  * Dùng vật phẩm Thần Nguyên Túy (event Chân Nguyên Thần Phách, Kinh Hỷ Tam Liên).
+  
+  Nghĩa là 10000 điểm tinh túy thì ngưng nguyên và phân giải ra sẽ được khoảng 5500 nguyên tinh. Với kinh nghiệm này của mình chia sẻ, các bạn sẽ biết cách tính toán
+  xem sẽ cần bao nhiêu, đầu tư, mua bán sao để kiếm được nguyên tinh để thăng cấp chân nguyên yêu quý của mình.
+  
+* Mỗi ngày được đi 5 vòng Q liên hoàn Tô Châu và 5 vòng Q liên hoàn Lâu Lan, đặc biệt là Q liên hoàn Lâu Lan rất hay ra Chân Nguyên Phách (100 chân nguyên tinh túy).
+* Đi phụ bản Thiếu Thất Sơn có cơ hội được Chân Nguyên Tinh Phách (500 chân nguyên tinh túy).
+* Phiêu Miễu Phong 75 cũng thường cho ra Chân Nguyên Phách (khóa và không khóa).
+* Phiêu Miễu Phong 95 thi thoảng lại cho ra Chân Nguyên Tinh Phách (khóa).
+* Nếu có bang hội lớn chiếm Phụng Hoàng Cổ Thành, có thể xin đi ké (hoặc vào bang của họ) để đi phụ bẩn Phụng Hoàng Lăng Mộ (12h30 - 13h30 và 22h30 - 23h30), ra rất nhiều
+  Chân Nguyên Tinh Phách.
+* Khi muốn đầu tư mạnh dạn và nhanh chóng hơn, cần nắm được giá cả của các vật phẩm Chân Nguyên, tại thời điểm viết bài thì:
+  
+  * Chân Nguyên Linh Phách (2500 chân nguyên tinh túy): 180KNB/1
+  * Chân Nguyên Tinh Phách (500 chân nguyên tinh túy): 36KNB/1
+
+* Event Chân Nguyên Thần Phách, mình phải đề cập đến event này (mặc dù là event nạp) nhưng cũng xin phép phân tích thêm về nó.
+  Trong event chân nguyên thần phách, khi ta dùng 12 hoặc 24 viên Chân nguyên thần phách để tích lũy 12000 hoặc 24000 điểm chân nghĩa, ta sẽ đổi được tối đa 2 viên Thần Nguyên Túy,
+  tương đương với 20000 nguyên tinh/1 viên. 
+
+  Bây giờ ta sẽ tính chi phí và kết quả đạt được:
+
+  * Đầu vào: 
+    
+    * Mua và sử dụng 24 viên chân nguyên thần phách.
+    * Tốn tiền: 24 x 450 = 24 * 450 KNB/1 (giá shop) = 10800 KNB.
+
+  * Đầu ra:
+
+    * Sử dụng 24 viên chân nguyên thần phách ta tích lũy được 24000 điểm chân nghĩa và:
+
+      * Đổi được 2 viên thần nguyên túy => có 40000 điểm nguyên tinh.
+      * Được 24 * 2000 = 48000 chân nguyên tinh túy (khi sử dụng 1 viên chân nguyên thần phách được tặng 2000 chân nguyên tinh túy).
+        
+        48000 chân nguyên tinh túy => 48000 * 0.55 = 26400 nguyên tinh.
+      * Dùng 24000 chân nguyên đổi được 1 chân nguyên cam (tốn 6000 chân nghĩa) + 1 chân nguyên cam (12000) + 1 chân nguyên tím (2000) + 1 chân nguyên tím (4000)
+        * Cuối cùng ta có 2 chân nguyên cam phân giải được 2 * 1000 = 2000 nguyên tinh.
+        * Và 2 chân nguyên tím, phân giải được 2 * 300 = 600 nguyên tinh.  
+      * Tính hòm hòm, tham gia event này ta được KHOẢNG 40000 + 26400 + 2000 + 600 = 69000 nguyên tinh.
+
+  * Rồi nếu đối chiếu với giá thị trường, ta tính ngược bằng tỉ lệ 0.55:
+      
+    69000 nguyên tinh 
+    
+    = 69000 / 0.55 
+    
+    = 124455 chân nguyên tinh túy 
+    
+    = 124455 / 2500 = 50 viên chân nguyên linh phách
+    
+    = 50 * 180KNB/1 = 9000 KNB.
+
+    Như vậy với Chân Nguyên Thần Phách giá 180KNB/1 ta tốn 10800 KNB để có được lượng nguyên tinh tương đương khi mua 50 viên Chân nguyên linh phách của thương nhân (9000 KNB).
+    
+    Tính ra là mắc hơn 1800 KNB. Tuy nhiên phép tính tỉ lệ 0.55 là tương đối, nếu bạn gặp hên thì cũng có khả năng cho ra được lược nguyên tinh cao hơn, 
+    
+    và cũng có khi bạn mua 50 viên chân nguyên linh phách đem đi ngưng nguyên lại không được nhiều như khi chơi event Chân Nguyên Thần Phách.
+    
+    Chốt lại, tại thời điểm viết bài, chi phí chênh lệch tính một cách ước lượng là khoảng 1800KNB. Các bạn tự phân tích và xử thêm nhé, trên đây là ý kiến chủ quan của riêng mình!
+    
+    Mình nhắc đến event Chân Nguyên Thần Phách là vì theo dõi nó suốt, lúc đầu giá của nó là 1000KNB/1, sau đó giảm còn 750KNB/1, và giờ là 450KNB/1 trong 3 tháng trở lại đây.
+
+
+
+
+
+
+

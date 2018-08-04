@@ -1,0 +1,161 @@
+Câu Cá
+======
+
+* Câu Cá mang lại nguyên liệu cho nghề nấu nướng, cũng như có cơ hội thấp được 2 vật phẩm là tơ tuyến và nhiễm tễ dùng để chế thời trang bằng nghề may mặc.
+
+* Câu Cá không tốn tinh lực mà chỉ tốn thời gian ^^.
+
+* Mua cần câu sơ cấp trong tiệm tạp hóa là đã có thể ra bờ sông, bờ suối ở các bản đồ ngồi câu cá rồi!
+
+Học Nghề
+--------
+
+* Có thể học ở các thành thị chính (chữ Ngư trên bản đồ) và nâng cấp về sau trong bang hội:
+
+  * Đại Lý: NPC Mục Tử Lăng (104, 155).
+  * Lạc Dương: NPC Khương Ngư (207, 184).
+  * Tô Châu: NPC Tưởng Bình (238, 77).
+  * Lâu Lan: NPC Diệp Hàn (89, 89).
+
+Thăng Cấp
+---------
+
+* Câu cá cho đủ điểm thành thạo của cấp hiện tại và liên hệ NPC để thăng cấp.
+* Cấp 1 - 5: thăng cấp tại NPC dạy câu cá ở các thành chính, tiêu tốn vàng và kinh nghiệm.
+* Cấp 5 - 10: thăng cấp tại NPC Mộc Dịch trong thành thị bang hội (49, 92; chữ Thương trên bản đồ), tiêu tốn vàng, kinh nghiệm, điểm cống hiến bang.
+
+Phân Bố
+-------
+
+.. list-table:: Bảng phân bố nguyên vật liệu từ nghề câu cá tại các bản đồ trò chơi   
+   :header-rows: 1
+
+   * - Cấp kỹ năng
+     - Bản đồ
+     - Vật phẩm chính
+     - Vật phẩm khác
+   * - 1
+     - Vô Lượng Sơn
+
+       Kiếm Các
+
+       Đôn Hoàng
+
+       Kính Hồ
+
+       Tung Sơn
+
+       Thái Hồ
+     - Thảo Ngư
+       
+       .. image:: /_static/images/ky-nang-song/cau-ca/thao-ngu-1.png
+
+       Thanh Ngư (Cá Trắm)
+       
+       .. image:: /_static/images/ky-nang-song/cau-ca/thanh-ngu-1.png
+     -
+   * - 2
+     - Tây Hồ       
+     - Tức Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/tuc-ngu-2.png
+
+       Tiễn Ngư  
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/tien-ngu-2.png
+     -
+   * - 3
+     - Nhĩ Hải
+     - Liên Ngư (Cá Mè)  
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/lien-ngu-3.png
+
+       Lư Ngư (Cá Sạo)
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/lu-ngu-3.png
+     -
+   * - 4
+     - Nhạn Nam
+     - Bình Ngư
+       
+       .. image:: /_static/images/ky-nang-song/cau-ca/binh-ngu-4.png
+       
+       Biển Đầu Ngư
+       
+       .. image:: /_static/images/ky-nang-song/cau-ca/bien-dau-ngu-4.png
+     -
+   * - 5
+     - Long Tuyền
+     - Thiện Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/thien-ngu-5.png
+
+       Đầu Lực Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/dau-luc-ngu-5.png
+     - Cua Biển
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/cua-bien-5.png
+   * - 6
+     - Thương Sơn
+     - Hắc Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/hac-ngu-6.png
+
+       Thu Đao Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/thu-dao-ngu-6.png
+     - Nghêu
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/ngheu-6.png
+   * - 7
+     - Nhạn Bắc
+     - Đấu Ngư
+       
+       .. image:: /_static/images/ky-nang-song/cau-ca/dau-ngu-7.png
+
+       Soa Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/soa-ngu-7.png       
+     - Vẹm
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/vem-7.png
+   * - 8
+     - Võ Di
+     - Xương Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/xuong-ngu-8.png       
+       
+       Quang Bối Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/quang-boi-ngu-8.png       
+     -
+   * - 9
+     - Thạch Lâm
+     - Ngân Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/ngan-ngu-9.png
+
+       Câu Ngư
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/cau-ngu-9.png       
+     -
+   * - 10
+     - Thảo Nguyên
+     - Khuê Ngư
+       
+       Bài Kỳ Ngư
+     -
+
+Kinh Nghiệm
+-----------
+
+* Dùng 1 Bí Ngân cấp 1 và kỹ năng đúc để chế tạo cần câu cao cấp Thái Công Điếu (công thức đồ tường mua tại NPC dạy Đúc - Luyện Kim) để khi câu cá, nhân vật rơi vào trạng thái miễn dịch, sẽ tránh được quấy rầy của quái vật và các người chơi khác đánh vào.
+
+.. image:: /_static/images/ky-nang-song/cau-ca/duc-thai-cong-dieu.png
+
+.. image:: /_static/images/ky-nang-song/cau-ca/thai-cong-dieu.png
+
+* Có thể mua thêm mồi câu trong tiệm tạp hóa, giúp tăng tốc độ câu cá trong một khoảng thời gian.
+
+*LingYun đã ghi chép từ rất lâu nhưng hôm nay 18:53 29/7/2018 bổ sung hình ảnh của hầu hết các loại cá cũng như thông tin thêm về cần câu Thái Công Điếu*

@@ -1,0 +1,142 @@
+Khai Khoáng
+===========
+
+* Khai khoáng để thu về các loại khoáng thạch dùng để chế tạo vũ khí bằng nghề Đúc, và nghề Công nghệ. Nghề này khá phổ biến với các acc nhỏ 5x thích tự chế những cây vũ khí cho riêng mình thay vì
+  dùng thần khí sẵn có.
+
+* Mua Cuốc đào khoáng sơ cấp trong tiệm tạp hóa và di chuyển ra các bản đồ để tiến hành đào.
+
+* Trong quá khứ, việc thành thạo kỹ năng khai khoáng càng cao mang lại nhiều hiệu quả hơn (đào được nhiều hơn) trong hoạt động đào khoáng thế tộc, nhưng bây giờ thì không còn thế tộc nữa. 
+
+Học Nghề
+--------
+
+* Có thể học ở các thành thị chính (chữ Thiết trên bản đồ) và nâng cấp về sau trong bang hội:
+
+  * Đại Lý: NPC Đồng Hóa Thiết (240, 90).
+  * Lạc Dương: NPC Tiết Đồng Chùy (309, 290).
+  * Tô Châu: NPC Trương Tiểu Hà (360, 230).  
+  * Lâu Lan: NPC Đồng Kim Chùy (217, 235).
+
+Thăng Cấp
+---------  
+
+* Đào khoáng cho đủ điểm thành thạo của cấp hiện tại và liên hệ NPC để thăng cấp.
+* Cấp 1 - 5: thăng cấp tại NPC dạy khai khoáng ở các thành chính, tiêu tốn vàng và kinh nghiệm.
+* Cấp 5 - 10: thăng cấp tại NPC Mã Ứng Hùng trong thành thị bang hội (66, 57; chữ Công trên bản đồ), tiêu tốn vàng, kinh nghiệm, điểm cống hiến bang.
+
+Phân Bố
+-------
+
+.. list-table:: Bảng phân bố nguyên vật liệu từ nghề khai khoáng tại các bản đồ trò chơi   
+   :header-rows: 1
+
+   * - Cấp kỹ năng
+     - Bản đồ
+     - Khoáng sản chính
+     - Khoáng sản phụ
+     - Tiêu hao tinh lực/lần khai khoáng
+   * - 1
+     - Vô Lượng Sơn
+
+       Kiếm Các
+
+       Đôn Hoàng
+
+       Kính Hồ
+
+       Tung Sơn
+
+       Thái Hồ
+     - Đồng Khoáng Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/dong-khoang-thach-1.png
+     -
+     - 3
+   * - 2
+     - Tây Hồ
+     - Thiết Khoáng Thạch (Mỏ Sắt)
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/thiet-khoang-thach-2.png
+     - Hạt Thiết Khoáng Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/hat-thiet-khoang-thach-2.png
+     - 4  
+   * - 3
+     - Nhĩ Hải
+     - Ngân Khoáng Thạch (Mỏ Bạc)
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/ngan-khoang-thach-3.png  
+     - Bạch Tân Khoáng Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/bach-tan-khoang-thach-3.png  
+     - 5
+   * - 4
+     - Nhạn Nam
+     - Hàn Thiết Khoáng Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/han-thiet-khoang-thach-4.png  
+     - Thạch Anh Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/thach-anh-thach-4.png  
+     - 6     
+   * - 5 
+     - Long Tuyền
+     - Kim Khoáng Thạch (Mỏ Vàng)
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/kim-khoang-thach-5.png  
+     - Phương Giải Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/phuong-giai-thach-5.png  
+     - 7 
+   * - 6
+     - Thương Sơn
+     - Huyền Thiết Khoáng Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/huyen-thiet-khoang-thach-6.png
+     - Thấu Huy Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/thau-huy-thach-6.png
+     - 8  
+   * - 7
+     - Nhạn Bắc
+     - Thủy Tinh Khoáng Thạch
+       
+       .. image:: /_static/images/ky-nang-song/khai-khoang/thuy-tinh-khoang-thach-7.png
+     - Chất Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/chat-thach-7.png
+     - 9
+   * - 8
+     - Võ Di
+     - Phỉ Thúy Khoáng Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/phi-thuy-khoang-thach-8.png
+     - Lụy Thác Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/luy-thac-thach-8.png
+
+       Huy Lục Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/huy-luc-thach-8.png
+     - 10  
+   * - 9 
+     - Thạch Lâm
+     - Chấn Vũ Khoáng Thạch
+
+       .. image:: /_static/images/ky-nang-song/khai-khoang/chan-vu-khoang-thach-9.png
+     - 
+     - 11
+   * - 10
+     - Thảo Nguyên
+
+       Mai Lĩnh
+     - Long Huyết Khoáng Thạch
+     -
+     - 12
+
+* Các khoáng sản phụ (bán sinh khoáng) có thể dùng kỹ năng sống **Gia Công Nguyên Liệu** để gia công thành **Đoạn Thạch** - một nguyên liệu trong chế tạo vũ khí.
+  
+  .. image:: /_static/images/ky-nang-song/khai-khoang/gia-cong-doan-thach.png     
+
+*LingYun ghi chép, bổ sung hình ảnh vào 21:24 29/7/2018*

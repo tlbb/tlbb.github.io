@@ -1,0 +1,13 @@
+Trùng Lâu Uyển
+==============
+
+* Tăng chính xác 5%
+* Chân Trùng Lâu Uyển tăng chính xác 10%
+* Giá tham khảo từ sự kiện `Thiên Giáng Minh Châu <http://ttl3d.zing.vn/su-kien/thien-giang-minh-chau-09-2017-215/thien-giang-minh-chau-1224.html>`_ :  700 Lưu Ly Trân Châu (700.000 KNB)
+
+
+.. figure:: /_static/images/trang-bi/trung-lau/trung-lau-uyen.png
+     :alt: Trang bị Ma tôn Trùng lâu Uyển giúp tăng chính xác cho nhân vật
+
+     Trùng lâu Uyển tăng chính xác cho nhân vật, thật phù hợp với các nhân vật ở máy chủ mới muốn bù chính xác và dồn điểm vào các đường khác như máu hay nội công, 
+     hoặc với các phái yếu chính xác như Nga mi, Tinh túc.

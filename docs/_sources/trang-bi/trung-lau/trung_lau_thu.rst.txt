@@ -1,0 +1,20 @@
+.. _trang-bi-trung-lau-thu:
+
+Trùng Lâu Thủ
+=============
+
+* Tăng sát thương 10% (Trùng Lâu Thủ)
+* Tăng sát thương 15% (Chân Trùng Lâu Thủ)
+* Ra mắt TTL3D vào ngày 10/06/2015 (Sự kiện Pháo Hoa Trùng Lâu)
+
+  .. figure:: /_static/images/trang-bi/trung-lau/trung_lau_thu.jpg
+     :alt: Hình ảnh trang bị Trùng Lâu Thủ
+
+     Hình ảnh Trang bị Trùng Lâu Thủ. Trang bị xét về tầm tác dụng cũng đáng mua giống như :ref:`trang-bi-trung-lau-ngoa`.
+
+  .. figure:: /_static/images/trang-bi/trung-lau/chan_trung_lau_thu.jpg
+     :alt: Hình ảnh trang bị Chân Trùng Lâu Thủ
+
+     Hình ảnh trang bị Chân Trùng Lâu Thủ.
+
+* Giá thị trường: 15 triệu, 40 triệu

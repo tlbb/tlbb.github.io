@@ -1,0 +1,7 @@
+Cái Thế Anh Hùng
+================
+
+* Danh hiệu **Cái Thế Anh Hùng** nhận tại Đại Lý - NPC Lý Công Bộ (161, 122).
+
+.. figure:: /_static/images/danh-hieu/cai-the-anh-hung.png
+   :alt: Danh thiệu Cái Thế Anh Hùng 

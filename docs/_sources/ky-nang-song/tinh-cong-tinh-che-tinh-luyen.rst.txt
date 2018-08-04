@@ -1,0 +1,74 @@
+Tinh Công - Tinh Chế - Tinh Luyện
+=================================
+
+* Đây là bộ 3 kỹ năng chế tạo dành cho những người "lười biếng" ^^, cùng mục đích với nghề Công nghệ, May mặc, Đúc nhưng nguyên liệu lại khác.
+
+* Học tại một NPC duy nhất: Tô Châu - Châu Phong (364, 247; khu Thiết tượng phố).
+
+.. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/npc.png
+   :alt: NPC Châu Phong dạy bộ 3 môn Tinh Công - Tinh Chế - Tinh Luyện.
+
+   Tô Châu - NPC Châu Phong dạy bộ 3 môn Tinh Công - Tinh Chế - Tinh Luyện.
+
+.. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/bang-ky-nang.png
+   :alt: Sau khi học kỹ năng, mở bảng kỹ năng ra và tham khảo các nguyên liệu cần để chế đồ bằng bộ 3 kỹ năng này!
+
+   Sau khi học kỹ năng, mở bảng kỹ năng ra và tham khảo các nguyên liệu cần để chế đồ bằng bộ 3 kỹ năng này!   
+
+Tinh Công
+---------
+
+* Chế đồ giống với kỹ năng công nghệ: giới chỉ, hộ phù, hạng liên.
+
+* Nguyên liệu: Bí ngân.
+
+  * Cứ 5 bí ngân cấp thấp thì hợp được thành 1 bí ngân cấp cao hơn (nhỏ nhất là bí ngân toái phiến).
+  * Hợp tại NPC khảm bảo thạch ở Lạc Dương và Lâu Lan.
+  * Bí ngân toái phiến: phụ bản Yến Tử Ổ, Phiêu Miễu Phong.
+  * Bí Ngân: Ác Tặc, Ác Bá, Kinh Hỷ Tam Liên, Vòng Quay May Mắn.
+
+  .. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/bi-ngan-toai-phien.png
+     :alt: Hình ảnh vật phẩm Bí ngân toái phiến
+
+  .. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/bi-ngan-3.png
+     :alt: Hình ảnh vật phẩm Bí ngân cấp 3
+
+Tinh Chế
+--------
+
+* Chế đồ giống với kỹ năng may mặc: y phục, mão, hộ uyển, hộ kiên, hộ thủ, thắt lưng, hài.
+
+* Nguyên liệu: Miên bố (Vải bông).
+
+  * Cứ 5 miên bố cấp thấp thì hợp được thành 1 miên bố cấp cao hơn (nhỏ nhất là miên bố toái phiến).
+  * Hợp tại NPC khảm bảo thạch ở Lạc Dương và Lâu Lan.
+  * Miên bố toái phiến: phụ bản Yến Tử Ổ, Phiêu Miễu Phong.
+  * Miên bố (vải bông): Ác Tặc, Ác Bá, Vòng Quay May Mắn.
+
+  .. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/mien-bo-toai-phien.png
+     :alt: Hình ảnh vật phẩm miên bố toái phiến
+
+  .. figure:: /_static/images/ky-nang-song/tinh-cong-tinh-che-tinh-luyen/mien-bo-3.png
+     :alt: Hình ảnh vật phẩm Miên bố cấp 3
+
+Tinh Luyện
+----------
+
+* Chế vũ khí: hoàn, đơn đoản, trượng..
+
+* Nguyên liệu: Tinh thiết.
+
+  * Cứ 5 bí ngân cấp thấp thì hợp được thành 1 bí ngân cấp cao hơn (nhỏ nhất là bí ngân toái phiến).
+  * Hợp tại NPC khảm bảo thạch ở Lạc Dương và Lâu Lan.
+  * Tinh thiết toái phiến: phụ bản Yến Tử Ổ, Phiêu Miễu Phong.
+  * Tinh thiết: Ác Tặc, Ác Bá, Vòng Quay May Mắn.
+
+Đả Tạo Đồ
+---------
+
+Tương tự như mình đã ghi chép trong các nghề May mặc, Công nghệ và Đúc nhé!
+
+Đồ Tường
+--------
+
+Tương tự như mình đã ghi chép trong các nghề May mặc, Công nghệ và Đúc nhé!

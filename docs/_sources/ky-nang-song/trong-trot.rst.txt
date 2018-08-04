@@ -1,0 +1,197 @@
+Trồng Trọt
+==========
+
+* Trồng trọt là kỹ năng sống đòi hỏi nhiều thời gian nhất, từ việc luyện tập thành thạo cho đến chờ thu hoạch. Trồng trọt cung cấp:
+
+  * Sợi vải dùng trong kỹ năng **May mặc**.
+  * Nông sản dùng trong kỹ năng **Nấu nướng**.
+
+* Ở các thành chính sẽ có các cánh đồng nhỏ ở hai bên ngoài cổng thành để chúng ta thực hiện canh tác mà không cần đi đâu xa!
+
+Học Nghề
+--------
+
+* Có thể học ở các thành thị chính (chữ Nông trên bản đồ) và nâng cấp về sau trong bang hội:
+  
+  * Đại Lý: NPC Công Tôn Đại Thúc (301, 204).
+  * Lạc Dương: NPC Lưu Diệc Nông (314, 401).
+  * Tô Châu: NPC Lâm Hòa Tịnh (125, 274).
+
+Thăng Cấp
+---------
+
+* Trồng trọt cho đủ điểm thành thạo của cấp hiện tại và liên hệ NPC để thăng cấp.
+* Cấp 1 - 5: thăng cấp tại NPC dạy trồng trọt ở các thành chính, tiêu tốn vàng và kinh nghiệm.
+* Cấp 5 - 10: NPC Chu Thế Hữu trong thành thị bang hội (129, 96; chữ Nông).
+
+Phân Bố
+-------
+
+* Tiêu hao 30 tinh lực cho mỗi lần trồng, trồng sớm thì sau 5 phút thu hoạch (được 5 nông sản), trồng chậm thì sau 65 phút thu hoạch (được 40 nông sản).
+
+.. list-table:: Bảng phân bố nông sản có thể trồng tại các thành thị
+   :header-rows: 1
+
+   * - Cấp kỹ năng
+     - Bản đồ
+     - Nông sản chính
+     - Nông sản phụ
+   * - 1
+     - Đại Lý
+       
+       Lạc Dương
+       
+       Tô Châu 
+     - Tiểu Mạch (Lúa Mì)
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/tieu-mach-1.png 
+     -  
+   * - 2
+     - Đại Lý
+
+       Tô Châu       
+     - Gạo
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/gao-2.png 
+     -
+   * - 3
+     - Lạc Dương
+     - Ngô    
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/ngo-3.png 
+     - Hồ Tiêu
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/ho-tieu-3.png        
+   * - 4
+     - Lạc Dương
+     - Lạc (Đậu Phụng)
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/lac-4.png 
+
+     - Bát Giác
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/bat-giac-4.png   
+   * - 5
+     - Đại Lý
+
+       Tô Châu
+     - Khoai Lang
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/khoai-lang-5.png 
+     -
+   * - 6
+     - Lạc Dương
+     - Cao Lương
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/cao-luong-6.png 
+     - Đại Toán    
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/dai-toan-6.png 
+   * - 7
+     - Đại Lý
+     - Chi Ma (Mè)
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/chi-ma-7.png      
+     -
+   * - 8
+     - Tô Châu
+     - Lục Đậu (Đậu Xanh)
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/luc-dau-8.png
+     - Hoàng Khương
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/hoang-khuong-8.png
+   * - 9
+     - Đại Lý
+
+       Tô Châu
+     - Hoàng Đậu (Đậu Nành)
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/hoang-dau-9.png     
+     -  
+   * - 10
+     - Lạc Dương
+
+       Tô Châu
+     - Tàm Đậu (Đậu Tằm)
+       
+       .. image:: /_static/images/ky-nang-song/trong-trot/tam-dau-10.png     
+     - Hồi Hương
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/hoi-huong-10.png       
+
+
+.. list-table:: Bảng phân bố cây lấy sợi có thể trồng tại các thành thị
+   :header-rows: 1
+
+   * - Cấp kỹ năng
+     - Bản đồ
+     - Vật liệu dệt chính
+     - Vật liệu dệt phụ
+   * - 1
+     - Đại Lý
+
+       Lạc Dương
+
+       Tô Châu
+     - Trữ Ma
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/tru-ma-1.png
+
+     -
+   * - 2
+     - Lạc Dương
+     - Thảo Miên
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/thao-mien-2.png
+     -
+   * - 3
+     - Tô Châu
+     - Á Ma
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/a-ma-3.png   
+     -
+   * - 4
+     - Đại Lý
+     - Mộc Miên
+       
+       .. image:: /_static/images/ky-nang-song/trong-trot/moc-mien-4.png
+     -
+   * - 5
+     - Lạc Dương
+     - Hoàng Ma 
+       
+       .. image:: /_static/images/ky-nang-song/trong-trot/hoang-ma-5.png
+     -
+   * - 6
+     - Tô Châu
+     - Vân Miên
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/van-mien-6.png    
+     -
+   * - 7
+     - Đại Lý 
+     - Cẩn Ma
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/can-ma-7.png   
+     -
+   * - 8
+     - Lạc Dương
+     - Nhung Miên
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/nhung-mien-8.png
+     -
+   * - 9
+     - Tô Châu
+     - Thanh Ma
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/thanh-ma-9.png    
+     -
+   * - 10
+     - Tô Châu
+     - Thái Miên
+
+       .. image:: /_static/images/ky-nang-song/trong-trot/thai-mien-10.png
+     -
+
+*LingYun nhớ về những tháng này treo auto để cày thành thạo trồng trọt, nay ghi chép lại lúc 23:14 29/7/2018*

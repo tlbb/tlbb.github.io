@@ -1,0 +1,30 @@
+.. _trang-bi-trung-lau:
+
+Trùng Lâu
+=========
+
+.. NOTE::
+   | Ma Tôn Trùng Lâu có giá trị cao nhưng phải kể đến hai bảo vật giá trị nhất là: Đới và Liên.
+   | Giá trị được đánh giá thông qua hiệu ứng, thuộc tính, giá trị sử dụng lâu dài và *giá sở hữu* của món trùng lâu.
+   |
+   | Sau bộ 5 huyền thoại giúp tăng tỉ lệ miễn khống chế là Đới, Liên, Giới, Ngọc, Kiên là các bộ Trùng lâu thiên về tấn công gồm: Khôi, Thủ, Ngoa, và Uyển.   
+   | 
+   | Thuộc tính tinh thông (công kích thuộc tính) trang bị của Trùng Lâu có thể cao gấp đôi so với trang bị cùng loại (hộ phù, giới chỉ, ..) có cùng cấp tinh thông.
+
+
+.. toctree::
+
+   trung-lau-doi
+   trung-lau-lien
+   trung-lau-ngoc
+   trung-lau-gioi 
+   trung-lau-kien   
+   trung-lau-khoi   
+   trung-lau-thu
+   trung-lau-ngoa
+   trung-lau-uyen
+   trung-lau-giap      
+   trung-lau-phan
+   trung-lau-trieu   
+   trung-lau-quy
+
