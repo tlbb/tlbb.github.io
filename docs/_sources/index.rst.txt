@@ -3,6 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. meta::
+   :description: Ghi chép, tìm hiểu, chia sẻ kinh nghiệm của LingYun về nhân vật, trang bị, kỹ năng sống,.. trong Thiên Long Bát Bộ
+   :keywords: tlbb, ttl3d, tan thien long bat bo
+
 Tân Thiên Long Bát Bộ Cẩm Nang Tạp Lục
 ======================================
 

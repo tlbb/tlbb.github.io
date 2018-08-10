@@ -1,5 +1,11 @@
+.. meta::
+   :description: Nhận xét về cách build acc đi thuộc tính so với nội công trong Thiên Long Bát Bộ
+   :keywords: thuoc tinh, tlbb, noi cong
+
 Nhân Vật
 ========
+
+* Ghi chép một số thông tin về nền tảng của một nhân vật trong Thiên Long Bát Bộ: tâm pháp, tu luyện, kinh mạch, và nói đôi điều về thuộc tính, giảm kháng và giảm kháng đến âm.
 
 Tâm Pháp
 --------
@@ -13,7 +19,7 @@ Tu Luyện
 * Tu luyện gồm có 3 quyển, thực hiện tu luyện hằng ngày tại Đại Lý - NPC Tảo Địa Thần Tăng:
   
   * Quyển 1: Ngũ Hành Bảo Điển - tăng % các thuộc tính cơ bản (cường lực, nội lực, thể lực, trí lực, thân pháp)
-  * Quyển 2: Vô Nhai Di Thử - tăng % các thuộc tính (nội công, ngoại công, nội thủ, ngoại thủ, chính xác, né tránh)
+  * Quyển 2: Vô Nhai Di Thư - tăng % các thuộc tính (nội công, ngoại công, nội thủ, ngoại thủ, chính xác, né tránh)
   * Quyển 3: Hạo Thiên Chân Kinh
     
     * Khi quyển 1 và quyển 2 đạt cấp 20 trở lên và đã làm nhiệm vụ Tiến Cấp Môn Phái (cấp 90) thì được học quyển 3 này.
@@ -30,6 +36,7 @@ Tu Luyện
 * Cấp tu luyện tối đa: **105**.
 * Điểm tu luyện tối đa: **13272**.
 * Cấp các phân quyển tu luyện càng cao thì điểm tu luyện của nhân vật càng cao.
+* Hiệu quả % của tu luyện càng cao thì cấp tu luyện và cấp nhân vật càng cao.
 
 Kinh Mạch
 ---------
@@ -39,6 +46,57 @@ Kinh Mạch
 
 * Điểm tiến cấp kinh mạch tối đa: **4410**.
 * Cấp các phân quyển tu luyện của quyển 3 - Hạo Thiên Chân Kinh càng cao thì điểm tiến cấp kinh mạch của nhân vật càng cao.
+
+Thuộc Tính Tấn Công - Giảm Kháng - Giảm Kháng Đến Âm
+----------------------------------------------------
+
+* Đây là một vấn đề rất cơ bản và cũng được đồng đạo võ lâm thắc mắc.
+  
+  Trước hết cần nhấn mạnh rằng việc đi hướng tấn công thuộc tính thay (ưu tiên) cho việc đi nội công/ngoại công là xu thế hiện tại bởi:
+
+  * Kinh nghiệm dân gian: 25000 nội công/ngoại công = 1000 thuộc tính.
+  * Từ kinh nghiệm trên, thực ra cũng có thể tự kiểm chứng, và đã có nhiều người kiểm chứng rồi, chốt lại là cùng một số lượng ngọc nội công/ngoại công 
+    đập vào acc thì cũng không bằng đập cùng số lượng ngọc thuộc tính (so sánh sát thương).
+
+* Thuộc tính chia ra làm 4 hướng: Băng, Hỏa, Huyền, Độc.
+* Giảm kháng thuộc tính:
+
+  * Là điểm chặn nhằm xác định sát thương thuộc tính của bạn có gây được lên đối phương hay không, nếu giảm kháng thuộc tính của bạn lớn hơn kháng thuộc tính của đối phương
+    thì mới gây được sát thương thuộc tính đó lên người đối phương.  
+  * Ví dụ bạn có 1000 huyền công, giảm kháng huyền là 80, đối phương có kháng huyền là 90. Vậy đối thủ sẽ miễn nhiễm sát thương huyền công của bạn!
+  * Qua đó cũng cho thấy rằng phải cố gắng đẩy giảm kháng tối đa để triệt hạ kháng của đối thủ, tránh làm giảm kháng lỡ cỡ, vì đi kháng ít tốn chi phí hơn so với giảm kháng, làm lỡ cỡ bị đối thủ cay cú lên kháng tèo ngay cả đường thuộc tính.
+
+* Công thức tính điểm thuộc tính thực (LingYun xin mạn phép đặt nó là thuộc tính thực), đây là công thức áp dụng cho 1 hướng thuộc tính, 
+  nếu trong nhân vật của bạn có nhiều hướng (băng + hỏa + huyền + độc) thì bạn tính 4 lần rồi tổng nó lại::
+
+    S_thuoc_tinh_1 = thuoc_tinh_1 * (100 + giam_khang_am_thuoc_tinh_1) / 100
+
+  Ví dụ bạn có 10000 Huyền Công, giảm kháng Huyền đến âm là 48.
+  Vậy nhân vật của bạn có huyền công thực tính là::
+    
+    S_huyen = 10000 x (100 + 48)/100 = 10000 x 1.48 = 14800.
+
+* Công thức tính sát thương: căn cứ vào bảng hệ số sát thương (trên mạng), các hệ số này được nhà vận hành game thiết lập, bạn lấy tổng từng thuộc tính của bạn (tính được ở công thức trên) nhân với hệ số thuộc tính tương ứng.
+
+  Ví dụ với mình là Võ Đang, hệ số Huyền Công là 1.1, mình thực tính theo công thức trên thì tính ra được 14000 huyền công, vậy sát thương lên người đối thủ tính riêng của đường huyền công là::
+
+    14000 x 1.1 = 15400 ~ nghĩa là huyền công mình đánh lên người đối thủ có thể trừ tới 15400 máu/đòn đánh.
+
+  Với một số ví dụ như vậy rồi thì mình nghĩ việc các bạn có thể làm là tính tổng các đường thuộc tính khác nữa (băng, hỏa, độc) trong nhân vật để tính ra được tổng sát thương (lý thuyết) ^^!   
+
+* Giảm kháng thuộc tính đến âm của nhân vật tối đa là 49 điểm, đến từ các nguồn sau:
+
+  * 30 điểm từ Long Văn - Cấp 10 Thuộc tính mở rộng (dùng Xuyết Long Thạch Bạo).
+  * 0 - 19 điểm từ Võ Hồn - Dòng Giảm kháng thuộc tính đến âm và Tư chất Võ Hồn Toàn Mỹ thì mới có khả năng đạt 19 điểm.
+
+* Giảm kháng thuộc tính đến từ các nguồn chính như sau:
+
+  * Kỹ năng con.
+  * Lên ngọc kép.
+  * Võ hồn.
+
+  Qua đó cho thấy việc quan trọng trong việc tăng cấp thuộc tính Võ Hồn, việc đi nhiều dòng giảm kháng thuộc tính, giảm kháng đến âm trên Võ hồn là xu thế của các phái đa thuộc tính,
+  trước là Thiên Long, về sau các phái khác cũng có thể theo: họ đi Võ Hồn 2 - 3 dòng giảm kháng, 2 - 3 dòng giảm kháng đến âm, mặc đồ nhiều thuộc tính nhằm tăng thuộc tính phụ giúp tăng lượng tổng sát thương.
 
 Kinh Nghiệm
 -----------
@@ -60,3 +118,7 @@ Kinh Nghiệm
 * Khi nào thì kinh mạch phát huy tác dụng:
 
   Là khi điểm tiến cấp kinh mạch của bạn lớn hơn hoặc bằng đối thủ. Vì vậy một khi đã đả thông kinh mạch, hãy cố gắng max nhé.
+  Một ví dụ rõ hơn, khi bạn đả thông kinh mạch tăng khống chế (nhậm mạch), và đối phương đả thông giảm khống chế kỹ năng đó (đốc mạch), và cả hai người đều có điểm tiến cấp kinh mạch ngang nhau,
+  thì hiệu quả khống chế của bạn coi như giữ nguyên chứ không được tăng thêm từ kinh mạch vì đốc mạch của đối phương phát huy được gặp nhậm mạch của bạn nên nó hoàn nguyên.
+
+* Để đạt hiệu quả % tu luyện cao nhất (nhiều điểm xanh nhất) thì phải max tu và nhân vật phải đạt cấp tối đa là 119.
