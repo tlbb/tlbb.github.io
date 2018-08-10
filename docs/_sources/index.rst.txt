@@ -41,3 +41,6 @@ Liên Kết Khác
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+* :download:`Sitemap <sitemap.xml>`
+
+
