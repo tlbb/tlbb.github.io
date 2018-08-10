@@ -1,0 +1,5 @@
+Kiện Thể
+==========
+
+* Tăng giới hạn tinh lực (tiêu hao khi dùng kỹ năng thu thập) của nhân vật.
+* Học và tăng cấp tại NPC Tiền Vi Nhất trong thành thị bang hội (chữ Kim trên bản đồ).

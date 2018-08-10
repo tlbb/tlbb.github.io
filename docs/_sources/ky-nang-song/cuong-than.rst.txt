@@ -1,0 +1,5 @@
+Cường Thân
+==========
+
+* Tăng giới hạn hoạt lực (tiêu hao khi dùng kỹ năng chế tạo) của nhân vật.
+* Học và tăng cấp tại NPC Tiền Vi Nhất trong thành thị bang hội (chữ Kim trên bản đồ).

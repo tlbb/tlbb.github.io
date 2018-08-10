@@ -136,6 +136,10 @@ Kinh Nghiệm
     * Sử dụng 24 viên chân nguyên thần phách ta tích lũy được 24000 điểm chân nghĩa và:
 
       * Đổi được 2 viên thần nguyên túy => có 40000 điểm nguyên tinh.
+
+        .. figure:: /_static/images/chuc-nang/chan-nguyen/than-nguyen-tuy.jpg
+           :alt: Vật phẩm Thần Nguyên Túy trong TLBB
+
       * Được 24 * 2000 = 48000 chân nguyên tinh túy (khi sử dụng 1 viên chân nguyên thần phách được tặng 2000 chân nguyên tinh túy).
         
         48000 chân nguyên tinh túy => 48000 * 0.55 = 26400 nguyên tinh.

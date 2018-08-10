@@ -1,0 +1,6 @@
+Hoạt Huyết
+==========
+
+* Giúp tăng giới hạn sinh lực cho nhân vật.
+* Học và tăng cấp tại NPC Chu Thế Hữu trong thành thị bang hội (chữ Nông trên bản đồ).
+

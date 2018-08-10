@@ -1,0 +1,61 @@
+Nhân Vật
+========
+
+Tâm Pháp
+--------
+
+* Cấp tâm pháp môn phái tối đa: 119.
+* Điểm tâm pháp tối đa: 4806.
+
+Tu Luyện
+--------
+
+* Tu luyện gồm có 3 quyển, thực hiện tu luyện hằng ngày tại Đại Lý - NPC Tảo Địa Thần Tăng:
+  * Quyển 1: Ngũ Hành Bảo Điển - tăng % các thuộc tính cơ bản (cường lực, nội lực, thể lực, trí lực, thân pháp)
+  * Quyển 2: Vô Nhai Di Thử - tăng % các thuộc tính (nội công, ngoại công, nội thủ, ngoại thủ, chính xác, né tránh)
+  * Quyển 3: Hạo Thiên Chân Kinh
+    
+    * Khi quyển 1 và quyển 2 đạt cấp 20 trở lên thì được học quyển 3 này.
+    * Tăng hiệu quả 4 đường kinh mạch:
+      
+      * Thái Dương (tăng sát thương một kỹ năng của bản thân).
+      * Túc Thái Âm (giảm sát thương một kỹ năng của đối phương).
+      * Nhậm Mạch (tăng thời gian một kỹ năng khống chế).
+      * Đốc Mạch (giảm thời gian một kỹ năng khống chế của đối phương).
+
+* Các % tăng sẽ được tính thành các con số màu xanh bên cạnh chỉ số trắng của nhân vật gọi là điểm xanh, cho nên hãy cố gắng max tu luyện để được nhiều % nhất nhé.
+  Khi nhân vật sử dụng nhiều Tiềm Năng Quả, Tiềm Năng Chân Đan thì điểm xanh sẽ càng cao, vì nó được tính từ % của điểm trắng.
+
+* Cấp tu luyện tối đa: 105.
+* Điểm tu luyện tối đa: 13272.
+* Cấp các phân quyển tu luyện càng cao thì điểm tu luyện của nhân vật càng cao.
+
+Kinh Mạch
+---------
+
+* Khi nhân vật đạt cấp 90, về môn phái và nhận nhiệm vụ **Tiến Cấp Môn Phái**, sau khi hoàn thành sẽ được phép học quyển Hạo Thiên Chân Kinh (quyển số 3 trong chức năng tu luyện)
+  khi học được 4 phân quyển sẽ được gắn cách mạch tương ứng với các phân quyển đó.
+
+* Điểm tiến cấp kinh mạch tối đa: 4410.
+* Cấp các phân quyển tu luyện của quyển 3 - Hạo Thiên Chân Kinh càng cao thì điểm tiến cấp kinh mạch của nhân vật càng cao.
+
+Kinh Nghiệm
+-----------
+
+* Khi nào thì khóa lò xo (kỹ năng số 1 quyển tâm pháp số 8) của bạn chiếm ưu thế so với đối thủ:
+
+  Là khi tổng điểm tu luyện và tâm pháp của bạn lớn hơn đối phương.
+
+  Ví dụ: 
+  Nhân vật của bạn có tất cả kỹ năng tâm pháp cấp 103, chấm điểm tâm pháp là 3600, chấm điểm tu luyện là 13272 (đã max tu). 
+  Tổng cộng bạn có: 3600 + 13272 = 16872.
+
+  Đối phương có tất cả kỹ năng tâm pháp cấp 119, chấm điểm tâm pháp là 4806 (max tâm pháp), chấm điểm tu luyện là 13272 (đã max tu).
+  Tổng cộng đối thủ có: 4806 + 13272 = 18078.
+
+  Như vậy khi bạn khóa lò xo lên đối thủ sẽ không đạt hiệu quả cao vì:
+  16872 (của bạn) < 18078 (đối thủ).    
+
+* Khi nào thì kinh mạch phát huy tác dụng:
+
+  Là khi điểm tiến cấp kinh mạch của bạn lớn hơn hoặc bằng đối thủ. Vì vậy một khi đã đả thông kinh mạch, hãy cố gắng max nhé.

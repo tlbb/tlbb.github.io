@@ -24,9 +24,11 @@ Trân trọng, LingYun tái bút ngày 4/8/2018 nhân một buổi tối thứ 7
    tinh-nang/index
    trang-bi/index
    ky-nang-song/index
+   nhan-vat/index
    danh-hieu/index
    su-kien/index
-   phien-ban/index
+   bien-nien-su
+   phien-ban/index   
    thong-tin-tac-gia
 
 Liên Kết Khác

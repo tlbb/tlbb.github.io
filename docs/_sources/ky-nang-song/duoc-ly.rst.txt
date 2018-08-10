@@ -1,0 +1,15 @@
+Dược Lý
+=======
+
+Học Nghề
+--------
+
+* Tại các NPC Chế Dược ở các thành chính.
+
+Tăng Cấp
+--------
+
+* Cấp tối đa: 99.
+* Cấp dược lý càng cao thì độ tiêu hao hoạt lực khi chế dược càng ít, đồng thời có tỉ lệ cao chế ra các dược phẩm hiếm.
+* 1 - 30: NPC dạy Chế Dược.
+* 30 - 99: NPC Lư Hoàng Liên trong thành thị bang hội (chữ Y trên bản đồ).

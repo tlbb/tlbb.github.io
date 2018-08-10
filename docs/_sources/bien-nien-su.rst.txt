@@ -1,0 +1,27 @@
+Biên Niên Sử
+============
+
+Sổ theo dõi của LingYun
+
+.. list-table:: Sổ theo dõi
+
+   * - Loại
+     - Tên
+     - Thời gian
+     - Mô tả
+     - Ghi chú
+   * - Trân thú
+     - Huyền Hoàng Đăng Xà
+     - 8/8/2018
+     -
+     - Vật phẩm mới trong Vòng Quay May Mắn
+   * - Thời trang
+     - Du Cang Ngọc Sắc
+     - 8/8/2018
+     -
+     - Vật phẩm mới trong Vòng Quay May Mắn
+   * - Sự kiện
+     - Chân Nguyên Thần Phách
+     - 1/8 - 14/8/2018
+     - 450KNB/1
+     - Không có trong thông báo cập nhật trên trang chủ nhưng trong game lại mở hoạt động này.

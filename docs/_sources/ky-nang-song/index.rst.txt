@@ -61,6 +61,18 @@ Kỹ Năng Sống
    cong-nghe
    tinh-cong-tinh-che-tinh-luyen
 
+.. toctree::
+   :caption: Kỹ Năng Khác:
+
+   duoc-ly
+   duong-sinh
+   hoat-huyet
+   duong-khi
+   cuong-than
+   kien-the 
+   
+
+
 
 Phụ Lục Kỹ Năng Chế Tạo
 -----------------------

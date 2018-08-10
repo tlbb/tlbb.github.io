@@ -1,0 +1,6 @@
+Dưỡng Khí
+=========
+
+* Giúp tăng giới hạn khí cho nhân vật.
+* Học và tăng cấp tại NPC Mộc Dịch trong thành thị bang hội (chữ Thương trên bản đồ).
+
