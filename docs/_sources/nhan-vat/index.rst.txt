@@ -7,6 +7,11 @@ Nhân Vật
 
 * Ghi chép một số thông tin về nền tảng của một nhân vật trong Thiên Long Bát Bộ: tâm pháp, tu luyện, kinh mạch, và nói đôi điều về thuộc tính, giảm kháng và giảm kháng đến âm.
 
+.. figure:: /_static/images/nhan-vat/tong-quan.png
+   :alt: Nhấn ALT + S để xem bảng kỹ năng môn phái, có các thông tin về chấm điểm tâm pháp, tu luyện
+
+   Nhấn ALT + S để xem bảng kỹ năng môn phái, có các thông tin về chấm điểm tâm pháp, tu luyện
+
 Tâm Pháp
 --------
 
@@ -38,6 +43,11 @@ Tu Luyện
 * Cấp các phân quyển tu luyện càng cao thì điểm tu luyện của nhân vật càng cao.
 * Hiệu quả % của tu luyện càng cao thì cấp tu luyện và cấp nhân vật càng cao.
 
+.. figure:: /_static/images/nhan-vat/tu-luyen.png
+   :alt: Cấp tu luyện tối đa là 105, để chuột vào từng quyển tu luyện để xem nó tăng bao nhiêu % nhé!
+
+   Cấp tu luyện tối đa là 105, để chuột vào từng quyển tu luyện để xem nó tăng bao nhiêu % nhé!
+
 Kinh Mạch
 ---------
 
@@ -46,6 +56,11 @@ Kinh Mạch
 
 * Điểm tiến cấp kinh mạch tối đa: **4410**.
 * Cấp các phân quyển tu luyện của quyển 3 - Hạo Thiên Chân Kinh càng cao thì điểm tiến cấp kinh mạch của nhân vật càng cao.
+
+.. figure:: /_static/images/nhan-vat/kinh-mach.png
+   :alt: Xem chấm điểm tiến cấp kinh mạch
+
+   Xem chấm điểm tiến cấp kinh mạch
 
 Thuộc Tính Tấn Công - Giảm Kháng - Giảm Kháng Đến Âm
 ----------------------------------------------------
@@ -87,7 +102,18 @@ Thuộc Tính Tấn Công - Giảm Kháng - Giảm Kháng Đến Âm
 * Giảm kháng thuộc tính đến âm của nhân vật tối đa là 49 điểm, đến từ các nguồn sau:
 
   * 30 điểm từ Long Văn - Cấp 10 Thuộc tính mở rộng (dùng Xuyết Long Thạch Bạo).
+
+    .. figure:: /_static/images/nhan-vat/long-van-giam-khang-am.png
+       :alt: Long Văn chỉ được có 1 dòng giảm kháng âm, hãy đẩy nó lên cấp 10 cho hướng thuộc tính chính của nhân vật
+
+       Long Văn chỉ được có 1 dòng giảm kháng âm, hãy đẩy nó lên cấp 10 cho hướng thuộc tính chính của nhân vật
+
   * 0 - 19 điểm từ Võ Hồn - Dòng Giảm kháng thuộc tính đến âm và Tư chất Võ Hồn Toàn Mỹ thì mới có khả năng đạt 19 điểm.
+
+    .. figure:: /_static/images/nhan-vat/vo-hon-giam-khang-am.png
+       :alt: Long Văn chỉ được có 1 dòng giảm kháng âm, hãy đẩy nó lên cấp 10 cho hướng thuộc tính chính của nhân vật
+
+       Võ Hồn cấp hợp thành 7 thì có tối đa 7 dòng thuộc tính mở rộng, đây cùng với kỹ năng con là cơ hội để đẩy giảm kháng thuộc tính phụ, và giảm kháng âm!
 
 * Giảm kháng thuộc tính đến từ các nguồn chính như sau:
 
@@ -106,14 +132,14 @@ Kinh Nghiệm
   Là khi tổng điểm tu luyện và tâm pháp của bạn lớn hơn đối phương.
 
   Ví dụ: 
-  Nhân vật của bạn có tất cả kỹ năng tâm pháp cấp 103, chấm điểm tâm pháp là 3600, chấm điểm tu luyện là 13272 (đã max tu). 
-  Tổng cộng bạn có: 3600 + 13272 = 16872.
+  Nhân vật của bạn có tất cả kỹ năng tâm pháp cấp 103, chấm điểm tâm pháp là 4262, chấm điểm tu luyện là 13272 (đã max tu). 
+  Tổng cộng bạn có: 4262 + 13272 = 17534.
 
   Đối phương có tất cả kỹ năng tâm pháp cấp 119, chấm điểm tâm pháp là 4806 (max tâm pháp), chấm điểm tu luyện là 13272 (đã max tu).
   Tổng cộng đối thủ có: 4806 + 13272 = 18078.
 
   Như vậy khi bạn khóa lò xo lên đối thủ sẽ không đạt hiệu quả cao vì:
-  16872 (của bạn) < 18078 (đối thủ).    
+  17534 (của bạn) < 18078 (đối thủ).    
 
 * Khi nào thì kinh mạch phát huy tác dụng:
 
