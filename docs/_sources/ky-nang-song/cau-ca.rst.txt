@@ -83,7 +83,9 @@ Phân Bố
        Biển Đầu Ngư
        
        .. image:: /_static/images/ky-nang-song/cau-ca/bien-dau-ngu-4.png
-     -
+     - Tôm Hùm
+
+       .. image:: /_static/images/ky-nang-song/cau-ca/tom-hum-4.png
    * - 5
      - Long Tuyền
      - Thiện Ngư
