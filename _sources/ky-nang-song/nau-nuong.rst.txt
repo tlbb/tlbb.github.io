@@ -203,9 +203,13 @@ Thực Đơn
 
        .. image:: /_static/images/ky-nang-song/nau-nuong/tam-dau-ngan-ty-cao.png
 
-       Tứ Bảo Chi Ma Chúc (hồi khí)
+       Tứ Bảo Chi Ma Chúc (hồi 7190 khí)
 
-       Cam Thảo Ý Mễ Bính (hồi máu)
+       .. image:: /_static/images/ky-nang-song/nau-nuong/tu-bao-chi-ma-chuc.png
+
+       Bánh Cam Thảo Ý Mễ (hồi 15070 máu)
+
+       .. image:: /_static/images/ky-nang-song/nau-nuong/banh-cam-thao-y-me.png
 
        Ty Qua Diện Tuyến Thang (hồi khí)
 
